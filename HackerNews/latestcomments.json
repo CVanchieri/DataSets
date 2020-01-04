@@ -1,0 +1,2002 @@
+[
+    {
+      "parent": "21933492",
+      "id": "21934357",
+      "time": "1577962180",
+      "timestamp": "2020-01-02 10:49:40 UTC",
+      "by": "nl",
+      "text": "Grass fed cattle produces more methane than grain fed thoug (and methane is a much worse greenhouse gas).<p>But it does (possibly) help sequesters carbon.<p>The truth is that it&#x27;s hard to tell which is better, but neither is great environmentally.<p><i>it’s hard to say whether grass-fed or grain-fed beef is better for the Earth – in part because they’re both pretty bad.<p>“No matter how you slice it,” he wrote, “eating beef will never be the greenest thing you do in a day.”<p>He cites an estimate by the National Institute of Livestock and Grassland Science in Japan that producing 2.2 pounds of beef emits more greenhouse gases than driving 155 miles.<p>Oregon Department of Environmental Quality’s study of the greenhouse gas emissions associated with consumption in Oregon found red meat and dairy products have the highest carbon footprint of all the foods Oregonians eat.</i>[1]<p>(Needless to say the Cattlemen’s Association dispute these, and claim it only (?) produces 2.8% of greenhouse gases in the US).<p>[1] <a href=\"https:&#x2F;&#x2F;www.opb.org&#x2F;news&#x2F;blog&#x2F;ecotrope&#x2F;which-is-greener-grass-fed-or-grain-fed-beef&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.opb.org&#x2F;news&#x2F;blog&#x2F;ecotrope&#x2F;which-is-greener-gras...</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932971",
+      "id": "21934356",
+      "time": "1577962171",
+      "timestamp": "2020-01-02 10:49:31 UTC",
+      "by": "StavrosK",
+      "text": "&gt; 5 years are not a long time to update the entirety of the internet<p>Given that WhatsApp manages to update its entirety of the internet in a few days, I&#x27;d say that is quite a long time. Is there a name for this fallacious &quot;arguing for&#x2F;against something without comparing it to alternatives&quot;?<p>&gt; But the answer to this problem would logically be that we need to increase our efforts to change that by reducing the number of GMail accounts and increasing the number of self-hosted email servers, right?<p>No, the argument is that decentralized services will mostly be centralized <i>anyway</i> due to the fact that centralization can move faster. Everyone has Gmail on the other end because Gmail is better than other services (that is the argument, not what I personally believe, as I think Fastmail is better).<p>Given that decentralization will lead to the existence of a few large points of centralization anyway, we should make those points secure, and centralizing allows us to do that better, the argument goes.<p>&gt; While this is an issue, there are solutions to this problem, one being nomadic identities.<p>The point is that nobody has <i>zero-knowledge</i> nomadic identities. AFAIK Signal were the first ones to come up with a practical implementation a few days ago.<p>&gt; For some reason Marlinspike confuses a decentralized system with a centralized, but distributed system. It even reads “Centralized Service” on his slides…<p>Moxie is talking about a centralized service. It says centralized on the slides, he said centralized twice, the author seems confused here.<p>&gt; These suites act as maps that point a way through the XEP jungle.<p>Yes, and a centralized service needs none of this.<p>Personally, I don&#x27;t see this article debunking many of the points. Decentralized is better for censorship-resistance, and I prefer it, but it&#x27;s better for that because centralized platforms aren&#x27;t usually designed for censorship resistance. Signal knows nothing about its messages, and thus it&#x27;s much harder to censor people using it.<p>I feel like Moxie made some good arguments, and would like to see some solutions in making decentralized servers and clients more easily upgradable. Signal&#x27;s approach works for signal, but it also works for almost every other person, since everyone seems happy to use Facebook or Slack or whatnot instead of Riot for their communications. I really like what Mastodon is doing in the federated microblogging space, and hopefully that will extend to other areas.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934221",
+      "id": "21934355",
+      "time": "1577962165",
+      "timestamp": "2020-01-02 10:49:25 UTC",
+      "by": "thatfrenchguy",
+      "text": "“Right on red” in the US is a disgrace :-)",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933631",
+      "id": "21934354",
+      "time": "1577962150",
+      "timestamp": "2020-01-02 10:49:10 UTC",
+      "by": "Arnt",
+      "text": "It&#x27;s not a privilege, it&#x27;s the law.<p>If you&#x27;re caught selling something counterfeit and have a good excuse, you might escape censure. If you&#x27;re caught selling counterfeit and the trademark owner has told you in writing that neither the owner nor any bulk resellers sell to you, then you don&#x27;t have much of an excuse.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934324",
+      "id": "21934353",
+      "time": "1577962149",
+      "timestamp": "2020-01-02 10:49:09 UTC",
+      "by": "yason",
+      "text": "This is roughly how people should behave in a city centre, and Oslo has been working on nudging towards that. Hence, driving is not fun in the centre as it shouldn&#x27;t be and speed limits should minimise pedestrian injuries. The difference in fatalities and serious injuries drops a great deal when going from 40 km&#x2F;h to 30 km&#x2F;h.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934299",
+      "id": "21934352",
+      "time": "1577962145",
+      "timestamp": "2020-01-02 10:49:05 UTC",
+      "by": "feanaro",
+      "text": "What are the use cases for stickers? I cannot seem to get them. They seem to express the ~same thing as emojis while being non-standard and not guaranteed to be available. I guess there might also be some overlap with &quot;gifs&quot;, but with less flexibility.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934221",
+      "id": "21934351",
+      "time": "1577962141",
+      "timestamp": "2020-01-02 10:49:01 UTC",
+      "by": "smcl",
+      "text": "This is the case here - many pedestrian crossings aren&#x27;t guarded by lights but by stripes on the road. There is one beside my work which is incredibly poorly timed. It turns green for pedestrians about 10 seconds after a traffic light goes green for cars further down the road - where it takes about 9 seconds for cars to accelerate to ~40kph and reach the crossing. I&#x27;ve personally seen one collision and countless near-misses because of this, and I&#x27;ve no doubt it will get someone killed one day.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934148",
+      "id": "21934350",
+      "time": "1577962135",
+      "timestamp": "2020-01-02 10:48:55 UTC",
+      "by": "braythwayt",
+      "text": "I was not, and am not, engaging you on the subject of whether humans contribute to climate change.<p>My point was entirely around a particular fallacy in your argument, and the tone. My goal was not to suggest you are wrong, but to suggest that both you and HN would benefit from a different style of discussion.<p>Having made my points, I do not need another turn. Carry on as you will.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21929709",
+      "id": "21934348",
+      "time": "1577962096",
+      "timestamp": "2020-01-02 10:48:16 UTC",
+      "by": "jordanbeiber",
+      "text": "I’m in a bad mood today, and IM bad mood O, much of this is a symptom of modern economics and business management.<p>Also - resources that are essentially free to use (customer&#x2F;users CPU cycles, storage and bandwidth) will be consumed.<p>We as consumers are paying the bills for it all in different ways(electricity, new gadgets, cloud costs etc).",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933779",
+      "id": "21934347",
+      "time": "1577962082",
+      "timestamp": "2020-01-02 10:48:02 UTC",
+      "by": "true_religion",
+      "text": "For a web app under continuous release, I would suggest doing both.<p>230-12-01-2020 to mean the 230th release since the start of the project, made on January 1st, 2020.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934298",
+      "id": "21934346",
+      "time": "1577962075",
+      "timestamp": "2020-01-02 10:47:55 UTC",
+      "by": "georgyo",
+      "text": "I think you are talking about jaywalking, but Europe and the US are really big.<p>In LA you get a ticket for jaywalking, while in NYC everyone crosses anywhere including weaving though moving traffic. And some cities in Maine the pedestrian always has the right away at cross walks and otherwise don&#x27;t have lights.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934192",
+      "id": "21934345",
+      "time": "1577962046",
+      "timestamp": "2020-01-02 10:47:26 UTC",
+      "by": "Sharlin",
+      "text": "The keyword to look up is ”traffic calming”. Making lanes narrower, adding curb extensions (bulbouts), gentle curves to otherwise straight roadways, and so on.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933631",
+      "id": "21934344",
+      "time": "1577961987",
+      "timestamp": "2020-01-02 10:46:27 UTC",
+      "by": "cecja",
+      "text": "&quot;Yeah, we don&#x27;t want you guys selling any of our stuff and we are not allowing any third party to sell on your platform as well.&quot; - sincerly nike.<p>must have been quite a ride and privilege...",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934221",
+      "id": "21934343",
+      "time": "1577961981",
+      "timestamp": "2020-01-02 10:46:21 UTC",
+      "by": "adriang133",
+      "text": "You have to stop at crossings yes, and it makes sense. Usually when there&#x27;s a red light in one direction, the one perpendicular to it will have a green light.<p>Dublin is similar to the UK as far as I could tell, and honestly it felt like one of the worst design of traffic lights ever. Waiting for 2-3 minutes on a red light is pretty common, and green only lasts for 20-30 seconds. It&#x27;s an absolute disaster for pedestrians, and as a result everyone jaywalks like crazy. I would say other countries have this right, even if drivers do have to give way to pedestrians immediately after a turn.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934182",
+      "id": "21934342",
+      "time": "1577961980",
+      "timestamp": "2020-01-02 10:46:20 UTC",
+      "by": "filmor",
+      "text": "Rightly so. Children can&#x27;t (as reliable as you) decide how safe it is in a given situation to cross.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934216",
+      "id": "21934341",
+      "time": "1577961966",
+      "timestamp": "2020-01-02 10:46:06 UTC",
+      "by": "mytailorisrich",
+      "text": "I think the point here is that EU&#x2F;EEA driving licences are considered as valid as local licences, without time limits because Norway is in the EEA.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934274",
+      "id": "21934340",
+      "time": "1577961964",
+      "timestamp": "2020-01-02 10:46:04 UTC",
+      "by": "jannes",
+      "text": "That&#x27;s <i>emissions</i>, not export in the form of oil.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934148",
+      "id": "21934339",
+      "time": "1577961963",
+      "timestamp": "2020-01-02 10:46:03 UTC",
+      "by": "seszett",
+      "text": "&gt; <i>The big evidence that higher concentrations of CO2 cause global warming was just the graph in Gore&#x27;s movie.</i><p>I don&#x27;t know what graph you are talking about, but the IPCC reports are not based on a random graph from a movie, and the arguments and evidence they present are vastly more credible than your comment.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21929063",
+      "id": "21934337",
+      "time": "1577961957",
+      "timestamp": "2020-01-02 10:45:57 UTC",
+      "by": "andrey_utkin",
+      "text": "The Motivation is dependency hell, the Rationale says the version is easy to understand at a glance. So, Rationale has missed the opportunity to explain how this is a solution to the declared problem.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21861055",
+      "id": "21934336",
+      "time": "1577961938",
+      "timestamp": "2020-01-02 10:45:38 UTC",
+      "by": "bcherny",
+      "text": "I hear the frustration in your comment, and I wonder if it’s because you might not be using TS correctly.<p>When used right: TS infers most of your types, TS does not add to the lines of code you need to write to get something done (especially if you’re already using propTypes), and TS multiplies your productivity by reducing time spent debugging and by making refactoring super easy.<p>If you’re interested, I wrote a book about how to use TS, targeted towards intermediate&#x2F;experienced JS programmers: <a href=\"https:&#x2F;&#x2F;www.amazon.com&#x2F;Programming-TypeScript-Making-JavaScript-Applications&#x2F;dp&#x2F;1492037656&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.amazon.com&#x2F;Programming-TypeScript-Making-JavaScr...</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934236",
+      "id": "21934335",
+      "time": "1577961885",
+      "timestamp": "2020-01-02 10:44:45 UTC",
+      "by": "braythwayt",
+      "text": "+1<p>Sprints also have the pleasant effect of forcing some coherence onto work.<p>In the Old Days, teams might build software like a layer-cake: All the lowest layer, then the next layer, then the next, and so on to the top. So at the beginning, we’d be building infrastructure based on projections (a fancy word for “wild-ass guesses”) of what the subsequent layers would need.<p>You can, in theory, do that in sprints, but with an emphasis on delivering “working software,” sprints would help devs and stakeholders pick very small end-to-end increments and build whatever was needed to make them work.<p>This kept everyone focus on work that was known to be needed, and since you were building a complete increment, the team would be building the infrastructure at the same time it was designing and building the functionality relying on the infrastructure.<p>This kind of thing has its own failure modes, of course, but it eliminated a number of catastrophic project failure modes without even getting into the value of delivering working software sooner and revising priorities based on feedback.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932956",
+      "id": "21934334",
+      "time": "1577961882",
+      "timestamp": "2020-01-02 10:44:42 UTC",
+      "by": "vineyardmike",
+      "text": "Its ironic that it is made available on a decentralized platform, since now it cannot be taken down as easily. Especially considering the topic of the video.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934218",
+      "id": "21934333",
+      "time": "1577961877",
+      "timestamp": "2020-01-02 10:44:37 UTC",
+      "by": "notahacker",
+      "text": "Yes. The fact that the OP had never heard of the National Union Party and jumped immediately to the conclusion that is was a &#x27;euphemism sinister people use&#x27; rather than spend 30 seconds confirming that this was in fact the name of the party he represented as President at the time of his death is ample evidence of a persecution complex. Propensity to assume one&#x27;s own ignorance of facts is evidence of malfeasance on the part of one&#x27;s opponents is pretty much the definition of persecution complex.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934182",
+      "id": "21934332",
+      "time": "1577961855",
+      "timestamp": "2020-01-02 10:44:15 UTC",
+      "by": "reallydontask",
+      "text": "I know people that have had similar experiences in Austria",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21930964",
+      "id": "21934331",
+      "time": "1577961800",
+      "timestamp": "2020-01-02 10:43:20 UTC",
+      "by": "trevyn",
+      "text": "Eh? Physical war is almost obsolete today.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934174",
+      "id": "21934330",
+      "time": "1577961799",
+      "timestamp": "2020-01-02 10:43:19 UTC",
+      "by": "ed_balls",
+      "text": "&gt; Why would Norwegians be different from other humans?<p>Different cultures and legal system. I moved from UK to Poland. Almost everybody walks on red light in UK, almost nobody in Poland - you will get fined for doing so. I don&#x27;t think anyone was fined for walking on red light in UK.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21926666",
+      "id": "21934329",
+      "time": "1577961791",
+      "timestamp": "2020-01-02 10:43:11 UTC",
+      "by": "AnnoyingSwede",
+      "text": "Cool to see a youtube alternative. Registered and became the 60th user, however it seems a bit slashdotted already with upload of my first video hanging at 99%, &quot;About&quot; link gives internal error, profile picture not being able to upload. Like the initiative however, keep it coming and hope <a href=\"https:&#x2F;&#x2F;nodetube.live&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nodetube.live&#x2F;</a> will stay around, however understand if you will need ads to make it work financially soon.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932484",
+      "id": "21934328",
+      "time": "1577961788",
+      "timestamp": "2020-01-02 10:43:08 UTC",
+      "by": "CommieDetector",
+      "text": "&quot;What is new is that even democratic countries are controlling free speech &quot;<p>Only the US have _true_ free speech.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934182",
+      "id": "21934325",
+      "time": "1577961761",
+      "timestamp": "2020-01-02 10:42:41 UTC",
+      "by": "smcl",
+      "text": "It&#x27;s quite unusual in Czech Republic too, again even when there&#x27;s no traffic in sight. Sometimes police will post up in places where it <i>might</i> happen and wait to catch you crossing on a red. They busted me doing this twice in quick succession (as in, there were two very small quiet crossings near to each other and they caught me crossing both and fined me on the spot - two fines). I don&#x27;t know if this is why people are reluctant to try it, or if this is one rule people just happen to strictly obey.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934160",
+      "id": "21934326",
+      "time": "1577961761",
+      "timestamp": "2020-01-02 10:42:41 UTC",
+      "by": "Sharlin",
+      "text": "I think it’s explicitly permitted by law in Sweden at least. It’s illegal in Finland (where I’m from), in theory at least, and I do think that should change. Pedestrian red light should mean ”may cross but must yield to other traffic”, ie. equivalent to the yield sign for vehicles.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933868",
+      "id": "21934324",
+      "time": "1577961744",
+      "timestamp": "2020-01-02 10:42:24 UTC",
+      "by": "tyfon",
+      "text": "It&#x27;s quite hard to drive in Oslo now. Not impossible but it&#x27;s not very fun and the speed limits are very low.<p>When I have to go inside &quot;ring 1&quot;, I usually drive to a free parking&#x2F;charging spot for electric cars and walk from there. It&#x27;s quite close to aker brygge and close to the high way.<p>Back when I was living in Oslo (and didn&#x27;t have children) I didn&#x27;t have a car at all, no need for it.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934174",
+      "id": "21934323",
+      "time": "1577961743",
+      "timestamp": "2020-01-02 10:42:23 UTC",
+      "by": "robbick",
+      "text": "_It&#x27;s not a cultural thing, it&#x27;s a human thing to be impatient._<p>True, but certain cultures see impatience as much worse flaw than other cultures leading to significant cultural differences in, say, crossing roads.<p>Seriously, if you ever visit Japan it will seem strange but people do almost always wait for the light.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934240",
+      "id": "21934322",
+      "time": "1577961738",
+      "timestamp": "2020-01-02 10:42:18 UTC",
+      "by": "benjaminsuch",
+      "text": "Okay I get that, but how do they battle it? What is the plan?  Where do they start?<p>Are they just trying to prevent the spread and wait till the fire kills itself?",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934288",
+      "id": "21934321",
+      "time": "1577961734",
+      "timestamp": "2020-01-02 10:42:14 UTC",
+      "by": "adrianN",
+      "text": "In your HN account setting, activate &quot;showdead&quot; to see flagged comments.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21930377",
+      "id": "21934320",
+      "time": "1577961721",
+      "timestamp": "2020-01-02 10:42:01 UTC",
+      "by": "yrro",
+      "text": "I agree with you, but for the same of argument... <i>this</i> Android user will also earn prospective buyers up front that they should steer well clear of the cheap devices <i>before</i> they buy them too!",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933561",
+      "id": "21934319",
+      "time": "1577961708",
+      "timestamp": "2020-01-02 10:41:48 UTC",
+      "by": "fs2",
+      "text": "It&#x27;s sad to see how these fires are automatically linked to climate change. Until the mid 2000&#x27;s Australia burned down small patches of forests to prevent large disasters like these we have now. But that changed when burning down forests (mind you to prevent larger forest fires in the future) were deemed too bad for the environment.<p>So now the policies and fire prevention techniques changed (for the worse) and exactly what many firefighters predicted has happened: mass fires covering the east coast. It doesn&#x27;t matter how much the climate changed when the whole part about prevention has been screwed up.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933409",
+      "id": "21934318",
+      "time": "1577961698",
+      "timestamp": "2020-01-02 10:41:38 UTC",
+      "by": "pjc50",
+      "text": "&gt; If the focus and discussion is regularly on short term deadlines, then the developers are not driving the process, the managers are. It means that sprints are seen as a management methodology and not a development methodology. And then everyone has a hard time.<p>Right. This is the thing that&#x27;s nearly impossible to achieve in most places and why so many people hate Agile: because they&#x27;re dealing with &quot;imposed agile&quot; where the managers are driving the process.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21927427",
+      "id": "21934317",
+      "time": "1577961696",
+      "timestamp": "2020-01-02 10:41:36 UTC",
+      "by": "pantulis",
+      "text": "IMHO all the rage on async comes from an era when interpreted languages where all the rage as they demonstrably increased developer productivity --I&#x27;m looking at you, Rails, Django.  Those platforms were not designed for runtime speed, so it made sense to push the bottleneck to the most inmediate backend system in the chain (i.e.: your trusty database, which is much faster than your agile framework of choice, remember the discussions of ORMs versus pure SQL?)<p>Then there came async frameworks a la Node, Twisted et al. and changed everything.  Again in my opinion, async code is harder to reason about versus synchronous code.<p>Things to keep in mind:<p>- Are you really working at scale?  Does the arguably added complexity of async benefit your particular use case?  Specially when SPA technologies allow to build simpler backend for frontend systems (pure API, no HTML rendering).  And not only regarding pure operational performance, Rails is still impossibly hard to beat when it comes to productivity.<p>- New players like Go, Rust have async capabilities but you dont necessarily need to use them to perform closer to native speed, hence becoming simpler solutions than Node, Ruby, or Python.  Guess that also applies to old dogs with new tricks in the JVM (Micronaut, Quarkus...)",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931126",
+      "id": "21934316",
+      "time": "1577961692",
+      "timestamp": "2020-01-02 10:41:32 UTC",
+      "by": "dirktheman",
+      "text": "There are several smart switches that don&#x27;t require null wires, Xiami Aqara for instance, or Shelly.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933699",
+      "id": "21934315",
+      "time": "1577961688",
+      "timestamp": "2020-01-02 10:41:28 UTC",
+      "by": "solarkraft",
+      "text": "&gt; And I love that the author understands that tasks are subdivisible to more than one level.<p>Absolutely! This is the first thing I check for trying out a new app. It&#x27;s amazing that people think one level can be enough for anyone (&quot;oh, but you can add a level by putting these tasks into a list and another one by putting that into a project ...&quot; dude, why?).<p>&gt; I wish someone one day would recognize that tasks don&#x27;t form trees, but directed graphs<p>It&#x27;s not that nobody realized, project management is not a new field, there are already MS Project and Project Libre.<p>What seems to be missing is a personal version that&#x27;s really easy enough to be used for personal projects.<p>A note about the graph representation:<p>You&#x27;re right, it&#x27;s really not always a tree, which is why I think there should be cross connections.  For about 95% of cases however I&#x27;d consider a tree sufficient.<p>A general note about tree based thought management:<p>I currently use Dynalist (similar to Workflowy) to manage my ideas. I generally love it (though it could also profit from a feature to branch out into a graph).<p>A part of that is task management as well, with the best motivation to use it being the nesting, but it&#x27;s lacking a bunch of festures on that front, so I imagine it being petty cool being able to replace it. Eventually though I&#x27;d like to be able to keep my tree of thought in a single application. Do you think your app could be extended a bit to support that (it&#x27;s probably not much, since the general management is almost the same)? If I&#x27;m going to pay 5€&#x2F;month (or what price are you thinking of?) I&#x27;d probably want that, as well as very easy complete export in an open format.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934261",
+      "id": "21934313",
+      "time": "1577961667",
+      "timestamp": "2020-01-02 10:41:07 UTC",
+      "by": "rapsey",
+      "text": "If they were security and privacy first they would not implement groups the way they did originally.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933894",
+      "id": "21934312",
+      "time": "1577961658",
+      "timestamp": "2020-01-02 10:40:58 UTC",
+      "by": "Scarblac",
+      "text": "Australia actually mines a lot of coal and exports it. It has more power to do something than most.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21929829",
+      "id": "21934307",
+      "time": "1577961609",
+      "timestamp": "2020-01-02 10:40:09 UTC",
+      "by": "addityasingh",
+      "text": "We faced similar issues at Zalando when trying to use Graphql at scale and to mitigate this we built <a href=\"https:&#x2F;&#x2F;github.com&#x2F;zalando-incubator&#x2F;graphql-jit\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;zalando-incubator&#x2F;graphql-jit</a>. Try it for your usecase and let us know how it affects the performance",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933392",
+      "id": "21934306",
+      "time": "1577961601",
+      "timestamp": "2020-01-02 10:40:01 UTC",
+      "by": "hvdijk",
+      "text": "The problem was not with a random someone wanting to make a change to version 1, it was with the project wanting to make a change to version 1. That is not a downstream problem.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934116",
+      "id": "21934305",
+      "time": "1577961585",
+      "timestamp": "2020-01-02 10:39:45 UTC",
+      "by": "regularfry",
+      "text": "The critical factor there isn&#x27;t the sprint, it&#x27;s the product owner. As long as the PO has the power to prioritise work, and as long as they are the only gateway for getting work into the team, chaos (from this direction, anyway) is minimised.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934088",
+      "id": "21934304",
+      "time": "1577961581",
+      "timestamp": "2020-01-02 10:39:41 UTC",
+      "by": "lorenzhs",
+      "text": "Matrix is well-funded and decentralized. Insinuating sinister goals because Signal received funding is tinfoil nonsense.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934174",
+      "id": "21934303",
+      "time": "1577961574",
+      "timestamp": "2020-01-02 10:39:34 UTC",
+      "by": "StanislavPetrov",
+      "text": "As a New Yorker I&#x27;ll never forget how my first time in LA everyone looked at me like an alien when I crossed the street against the light.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934274",
+      "id": "21934301",
+      "time": "1577961569",
+      "timestamp": "2020-01-02 10:39:29 UTC",
+      "by": "glutamate",
+      "text": "That doesn&#x27;t count the emissions from oil &amp; gas extracted from Norwegian fields and exported.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934023",
+      "id": "21934300",
+      "time": "1577961564",
+      "timestamp": "2020-01-02 10:39:24 UTC",
+      "by": "neop1x",
+      "text": "...but it works everywhere (Win&#x2F;Linux&#x2F;Mac&#x2F;Phones&#x2F;Tablets&#x2F;Consoles&#x2F;Cars), no need to fight with incompatible shared dynamic libraries or ask users to install 20 native library dependencies. And the webapp is developed waaaay faster with waaay less work and money.<p>I also see the problem. I hate bloated websites. I hate all those little unnecessary fancy CSS animations, I use uMatrix and regularly have to figure out which of those blahblahcdn.com domains (subdomains are whitelisted) needs to be enabled to make it work.<p>But even those webapps can be made to be &quot;fast enough&quot;. Developers just have to be very careful on the design from the beginning and try to use as little deppndencies as possible. Prefer simplicity and speed over fancy effects and unnecessary features no one asked for.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933710",
+      "id": "21934299",
+      "time": "1577961561",
+      "timestamp": "2020-01-02 10:39:21 UTC",
+      "by": "mintplant",
+      "text": "&gt; The only tangible evolution of signal in the past year has been new cat and dog stickers that no one asked for.<p>I&#x27;ve been asking for them! I&#x27;ve been asking for them for <i>years</i>, in fact. I&#x27;m chuffed that my tiny little crusade finally bore fruit, and that the implementation they landed on is precisely as I always envisioned it.<p>It was the #1 excuse friends made for why they wouldn&#x27;t consider Signal. But also, personally, I really do get a lot of value out of the sticker system in, say, Telegram, and it&#x27;s great to have available for my Signal conversations, too.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934160",
+      "id": "21934298",
+      "time": "1577961554",
+      "timestamp": "2020-01-02 10:39:14 UTC",
+      "by": "curiousgal",
+      "text": "Having lived in both the US and Europe, it&#x27;s definitely less frequent in the US. But only because the streets are much wider making it scarier.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934194",
+      "id": "21934297",
+      "time": "1577961543",
+      "timestamp": "2020-01-02 10:39:03 UTC",
+      "by": "p0nce",
+      "text": "That doesn&#x27;t work since this isn&#x27;t atomic anymore.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933561",
+      "id": "21934296",
+      "time": "1577961536",
+      "timestamp": "2020-01-02 10:38:56 UTC",
+      "by": "pxi",
+      "text": "It&#x27;s been nice in Brisbane the past few weeks. I&#x27;m starting to feel &quot;survivor guilt&quot;. For the people saying we need less trees, please watch this: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;SIHIsSJ2Txk\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;SIHIsSJ2Txk</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21927610",
+      "id": "21934295",
+      "time": "1577961530",
+      "timestamp": "2020-01-02 10:38:50 UTC",
+      "by": "tcgv",
+      "text": "Great book! Read after seeing its thread here in 2018, couldn&#x27;t recommend it enough.<p>Started spotting several cognitive biases described in the book in myself and people around me.<p>It&#x27;s explanation of our memory system is simple, yet very elucidating.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931956",
+      "id": "21934294",
+      "time": "1577961527",
+      "timestamp": "2020-01-02 10:38:47 UTC",
+      "by": "Freak_NL",
+      "text": "Or just break the law by ignoring unreasonable copyright claims. Copyright on a recording from the 1930s is not beneficial to the public in any way. This approach of course comes with the risk of becoming the next Jammie Thomas.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933885",
+      "id": "21934292",
+      "time": "1577961520",
+      "timestamp": "2020-01-02 10:38:40 UTC",
+      "by": "fit2rule",
+      "text": "Karma-haste.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933927",
+      "id": "21934291",
+      "time": "1577961493",
+      "timestamp": "2020-01-02 10:38:13 UTC",
+      "by": "adrianN",
+      "text": "Or the car could just be very efficient. Gasoline has a lot of energy. Transporting a person 100km on 34MJ&#x2F;l * 0.05l =1.71MJ doesn&#x27;t sound as impossible as you make it seem.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21929248",
+      "id": "21934289",
+      "time": "1577961432",
+      "timestamp": "2020-01-02 10:37:12 UTC",
+      "by": "yrro",
+      "text": "So if I don&#x27;t want Google telling the world where I live, I can no longer tell Windows users to not upload <i>my</i> WiFi passwords to Microsoft (_optout)... what a world we live in!",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934148",
+      "id": "21934288",
+      "time": "1577961428",
+      "timestamp": "2020-01-02 10:37:08 UTC",
+      "by": "voldacar",
+      "text": "Could you repost your original post (now flagged) so I and others can see your argument?",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934133",
+      "id": "21934287",
+      "time": "1577961426",
+      "timestamp": "2020-01-02 10:37:06 UTC",
+      "by": "Scarblac",
+      "text": "Yes, but apparently there are now also lots of forests burning that have never burned before and where the trees aren&#x27;t adapted for it.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21878826",
+      "id": "21934286",
+      "time": "1577961424",
+      "timestamp": "2020-01-02 10:37:04 UTC",
+      "by": "iso947",
+      "text": "You never get the “as it was” though - you change. You get older, the characters you identify with change, the feelings change.<p>The one thing I remember from watching “The Net” in the 90s was Sandra Bullock on the beach, as I was a hormonal teenager. I have no doubt there were other parts of the film. The emphasis will be different to my memory.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21930862",
+      "id": "21934285",
+      "time": "1577961422",
+      "timestamp": "2020-01-02 10:37:02 UTC",
+      "by": "Jowsey",
+      "text": "How do compilers compile themselves before the first iteration? This always confused me",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21895475",
+      "id": "21934284",
+      "time": "1577961375",
+      "timestamp": "2020-01-02 10:36:15 UTC",
+      "by": "majani",
+      "text": "This is where the investor backed audio companies are going. There will always be independent companies that don&#x27;t have huge financial pressures that will be willing to sell complete devices at a one time fee",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934224",
+      "id": "21934283",
+      "time": "1577961372",
+      "timestamp": "2020-01-02 10:36:12 UTC",
+      "by": "eeh",
+      "text": "Counting exports would lead to double counting: once for the exporter, once for the user.<p>All that matters is countries having fair targets, and meeting those targets.<p>Countries are free to meet their emissions reductions targets how they like, including buying cheap coal from Australia, planes from US, and cars from Germany.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933818",
+      "id": "21934282",
+      "time": "1577961350",
+      "timestamp": "2020-01-02 10:35:50 UTC",
+      "by": "Scarblac",
+      "text": "Comparing the costs of decarbonising vs rebuilding isn&#x27;t quite the right comparison though (though it&#x27;ll be psychologically important).<p>It&#x27;s not as if climate change would be reverted or even stop if we stopped burning fossil fuel now. There is a lag on the effect, and the situation would still be getting worse for a century or so.<p>The comparison is between all the extra future damage of burning even more than we already have vs the economic gains today.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933237",
+      "id": "21934281",
+      "time": "1577961330",
+      "timestamp": "2020-01-02 10:35:30 UTC",
+      "by": "pnako",
+      "text": "Yes. I was contesting your point about the world making Australia transition. Right now they&#x27;re buying more of it.<p>Now, you can try to run on a platform of banning those exports, but it&#x27;s a tough sell because it affects the revenue of many voters, and Australia is a democracy. It&#x27;s tough to vote away someone else&#x27;s living.<p>Hillary Clinton bragged about putting coal miners out of a job (something she later admitted was stupid) and got an electoral defeat in West Virginia.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934209",
+      "id": "21934280",
+      "time": "1577961320",
+      "timestamp": "2020-01-02 10:35:20 UTC",
+      "by": "emsign",
+      "text": "The scale. They don&#x27;t have enough equiptment to extinguish it. Someone might make an exact calcuation, but my guess is they would need hundreds of fire fighting air tanker planes by now.<p>They say the only thing that can help now is rainfall. And it&#x27;s not gonna come. All that the fire fighters can do now is saving lifes, helping people to evacuate, trying to keep important roads safe, etc.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934106",
+      "id": "21934279",
+      "time": "1577961319",
+      "timestamp": "2020-01-02 10:35:19 UTC",
+      "by": "jmg2",
+      "text": "As someone whose relatives were reconnected thanks to the veterans associations of the western world, my family having wholesale emigrated and married after the last war, the integrating and supporting values that were made in those years are not discounted. Events like this are the kind that should renew ties and associations. It&#x27;s a opportunity to seize.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934209",
+      "id": "21934278",
+      "time": "1577961315",
+      "timestamp": "2020-01-02 10:35:15 UTC",
+      "by": "carl_sandland",
+      "text": "Have a look at the regions involved;\n<a href=\"https:&#x2F;&#x2F;www.rfs.nsw.gov.au&#x2F;fire-information&#x2F;fires-near-me\" rel=\"nofollow\">https:&#x2F;&#x2F;www.rfs.nsw.gov.au&#x2F;fire-information&#x2F;fires-near-me</a><p>* the number of active fires is high.<p>* we have no proper rain and the ground is like DEAD dry.<p>* the amount of resources we have to put them all out is not infinite.<p>* the transport network does not cover much of those areas.<p>* the population tends to cluster in or at the fringes of flammable regions.<p>* the weather and fuel load are combining into truly horrific, chaotic fire behaviour, that can create their own weather systems (fire storms).<p>It&#x27;s a good question though! I wonder if we can invent some technology to solve this.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931317",
+      "id": "21934276",
+      "time": "1577961307",
+      "timestamp": "2020-01-02 10:35:07 UTC",
+      "by": "Sharlin",
+      "text": "To an extent, UI was solved in 1991 by Visual Basic. Yes, complex state management is not the best in a purely event-based programming model. Yes, you didn’t get a powerful <i>document</i> layout engine seamlessly integrated to the UI. Yes, theming your components was more difficult.  And so on. But… if the alternative is what we have now? I’m not sure.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933842",
+      "id": "21934275",
+      "time": "1577961304",
+      "timestamp": "2020-01-02 10:35:04 UTC",
+      "by": "joejerryronnie",
+      "text": "Dude, it’s to prevent people from interrupting you when you’re trying to work.  It would literally be designed to keep shitty coworkers like you away from my desk.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934222",
+      "id": "21934274",
+      "time": "1577961304",
+      "timestamp": "2020-01-02 10:35:04 UTC",
+      "by": "erikbye",
+      "text": "Norway doesn&#x27;t even make a dent.<p><a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;List_of_countries_by_carbon_dioxide_emissions\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;List_of_countries_by_carbon_di...</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933710",
+      "id": "21934272",
+      "time": "1577961278",
+      "timestamp": "2020-01-02 10:34:38 UTC",
+      "by": "StavrosK",
+      "text": "&gt;  The only tangible evolution of signal in the past year has been new cat and dog stickers that no one asked for.<p>That&#x27;s only true if by &quot;no one&quot; you mean &quot;99% of people&quot;. All my friends care about is that Signal doesn&#x27;t support stickers, &quot;privacy-preserving&quot; doesn&#x27;t help convert people from Facebook as much as you&#x27;d think.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934160",
+      "id": "21934270",
+      "time": "1577961222",
+      "timestamp": "2020-01-02 10:33:42 UTC",
+      "by": "nchie",
+      "text": "People definitely do that most of the time in Stockholm. If you see someone waiting for the light to turn green with no nearby cars, it&#x27;s most likely because have kids with them or they&#x27;re old and walk slow. Jaywalking is also very common.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932844",
+      "id": "21934269",
+      "time": "1577961191",
+      "timestamp": "2020-01-02 10:33:11 UTC",
+      "by": "pjmlp",
+      "text": "That lasts to this day, given how puritan America behaves versus Caribbean, South America and Europe.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934168",
+      "id": "21934268",
+      "time": "1577961184",
+      "timestamp": "2020-01-02 10:33:04 UTC",
+      "by": "seventh-chord",
+      "text": "For norway, our central statistics agency[1] keeps track of anual traffic fatalities. They provide numbers for each year since 1946, though detailed statistics are only available since ~2000.<p>In 1946, there were 161 fatalities and 675 gravely injured. This grew more or less linearly to 1971, with 533 fatalities and 4069 gravely injured. Since then it has fallen, again more or less linearly, to 108 fatalities and 602 gravely injured in 2018.<p>Numbers for 2019 are not out yet, as statistics for december have yet to be released.<p>[1]: ssb.no",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934023",
+      "id": "21934267",
+      "time": "1577961156",
+      "timestamp": "2020-01-02 10:32:36 UTC",
+      "by": "mikro2nd",
+      "text": "I think it&#x27;s a desktop problem, too. TBH I don&#x27;t know how things are over in the Mac&#x2F;Win world, but over here in Linux land it&#x27;s... not so good.<p>Boot used to be a small number of seconds. Now (on the rare occasions I&#x27;m forced to actually boot&#x2F;reboot) I start the machine and bugger off to make coffee while it does its thing. I don&#x27;t know what takes so fucking long, but it&#x27;s in the range of &#x27;several minutes&#x27;.<p>Starting apps likewise. I just started up an infrequently used picture-editing app a little while ago,... up towards a full minute of &#x27;loading this crap&#x27;, &#x27;loading this other crap&#x27;, etc.<p>And let&#x27;s not mention Atom (an Electron app unless I&#x27;ve misunderstood something) -- so laggy for some things that should be near-instant that I&#x27;m developing an active hate.<p><i>Alright: get the hell off my lawn now!</i>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934067",
+      "id": "21934266",
+      "time": "1577961150",
+      "timestamp": "2020-01-02 10:32:30 UTC",
+      "by": "dmos62",
+      "text": "It&#x27;s good to call this out, because it&#x27;s possible that the less valuable comments will accumulate enough engagement that the later in-depth comments will be found at the bottom of the thread.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933986",
+      "id": "21934265",
+      "time": "1577961148",
+      "timestamp": "2020-01-02 10:32:28 UTC",
+      "by": "bayesian_horse",
+      "text": "I don&#x27;t believe that restrictions of free speech are necessarily authoritarian. They can enhance the overall balance of power, for example by making minorities feel more safe.<p>For example hate speech could be restricted, supported by a majority of for example 60%, whereas the hate speech would only be exercised by for example 10%, endangering a minority of 5%.<p>Those who actually argue for more authoritarian elements, for example those who&#x27;d like Trump to not be hampered as much by the judicial system, don&#x27;t really want &quot;authoritarian&quot;-ness, but rather they want the government to do what they want. They don&#x27;t seem to realize that once a government has those powers, they have no control about what the government actually does. When a sufficient majority is buying into this, and actually wants to enact the same things, it&#x27;s game over for democracy.<p>However, most authoritarian governments didn&#x27;t develop that way. Most seem to develop by some people just taking power through various means and not really through appealing to a large majority.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933868",
+      "id": "21934264",
+      "time": "1577961139",
+      "timestamp": "2020-01-02 10:32:19 UTC",
+      "by": "ptrkrlsrd",
+      "text": "The cause of the decline is mentioned in the article:<p>&quot;- Oslo has received several regulations that have reduced the number of places where it is possible to drive. This is especially true within the city center and downtown areas. People have started cycling more. The risk of accidents between motorists and cyclists has been reduced. The more you separate the different road groups, the less the risk of serious traffic accidents. And then we see that the speed limit has been lower on several roads, says Steen.&quot;",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934109",
+      "id": "21934263",
+      "time": "1577961108",
+      "timestamp": "2020-01-02 10:31:48 UTC",
+      "by": "Glawen",
+      "text": "No surprise, bosch is the leading tier 1 automotive supplier who got hit hard by the vw gate and the slump in diesel engines.\nElectric and autonomous car (which then will lead to easier car sharing) are going to put a huge dent in their business, so they need to invest in them",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933328",
+      "id": "21934262",
+      "time": "1577961107",
+      "timestamp": "2020-01-02 10:31:47 UTC",
+      "by": "TeMPOraL",
+      "text": "I think a cousin of Literate Programming that does work well is computational notebooks, like Jupyter. Interleaving code and textual description fits the exploratory workflows and scientific communication well. My favourite is Observable (<a href=\"https:&#x2F;&#x2F;observablehq.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;observablehq.com&#x2F;</a>), where code has reactive structure (resolving a DAG like a literate program would at tangle-time), you can choose to keep some code hidden by default (to reduce clutter, make the document end-to-end readable), and use code to make the notebook fully interactive.<p>In terms of Knuth-style literate programming, Org Mode in Emacs, with its Org Babel feature, is a very good tool for this. It&#x27;s an outliner with rich markup, and where you&#x27;d ordinarily insert a code block, in Org Mode, you can also execute it (works with any language you&#x27;ve configured Emacs to connect to) and feed the results to further code blocks. So it works like a computational notebook. You can also tangle the blocks to produce a separate source file, the Knuth way. One common application I&#x27;ve seen is making literate Emacs configuration - people prepare the minimum necessary to set up Org Babel, and then tangle the proper (often large) config from an .org file, where it&#x27;s written in literate style.<p>As for my own experience, I occasionally try literate programming on small things, and so far - outside using org mode as a Jupyter alternative - I didn&#x27;t feel more productive with it. I often flesh out the idea of a solution while writing it (I alternate between coding&#x2F;recoding and design phases), and literate programming adds extra work - refactoring code means also refactoring the surrounding prose. On top of that, the narrative structure seems to interfere a bit with program&#x27;s own architecture. I know it shouldn&#x27;t (thanks to the way tangling works), but it somehow does in my head.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933710",
+      "id": "21934261",
+      "time": "1577961086",
+      "timestamp": "2020-01-02 10:31:26 UTC",
+      "by": "lorenzhs",
+      "text": "&gt; <i>The only tangible evolution of signal in the past year has been new cat and dog stickers that no one asked for.</i><p>Oh come on, that&#x27;s just not true (and I don&#x27;t mean by that that the most common complaint in every thread about Signal was that lack of sticker support was hindering people&#x27;s efforts of getting their friends to use Signal, although that is also true). Things the Signal team worked on in the past year include group management without revealing information about the group (including its existence) to the server (<a href=\"https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;signal-private-group-system&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;signal-private-group-system&#x2F;</a>) and secure value recovery (<a href=\"https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;secure-value-recovery&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;secure-value-recovery&#x2F;</a>), which lays the groundwork for abandoning phone numbers as identifiers and secure cloud backups of messaging history. Just because these haven&#x27;t been rolled out yet doesn&#x27;t mean nothing is happening. Signal also added iPad support in the past year, which is something many people have wished for for a long time.<p>A little bit further back, Sealed Sender (<a href=\"https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;sealed-sender&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;sealed-sender&#x2F;</a>) means that the server no longer needs to know who is sending a message (previously, it did to prevent spoofing and for rate limiting and abuse protection). Private contact discovery (<a href=\"https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;private-contact-discovery&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;private-contact-discovery&#x2F;</a>) allows matching of address books without revealing them to the server.<p>Until quite recently, there were fewer than a handful of people working on Signal, but with the funding they have now, they&#x27;ve ramped up hiring and have started working on features like the above. It just takes some time.<p>Also, Signal works without Google Play Services installed.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21927427",
+      "id": "21934260",
+      "time": "1577961079",
+      "timestamp": "2020-01-02 10:31:19 UTC",
+      "by": "majke",
+      "text": "&gt; <i>In most async systems … you end up in a world where you chain a bunch of async functions together with no regard of back pressure.</i><p>yup. Back pressure doesn’t compose in the world of callbacks &#x2F; async. It does compose if designed well in coroutine world (see: erlang).<p>&gt; <i>async&#x2F;await is great but it encourages writing stuff that will behave catastrophically when overloaded.</i><p>yup. It’s very hard, in larger systems impossible, to do back pressure right with callbacks &#x2F; async programming model.<p>This is how I assess software projects I look at. How fast is database is one thing. What does it do when I send it 2GiB of requests not reading responses? What happens when I open a bazillion connections to it? Will a previously established connections have priority over handling new connections?",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932050",
+      "id": "21934259",
+      "time": "1577961075",
+      "timestamp": "2020-01-02 10:31:15 UTC",
+      "by": "andrewingram",
+      "text": "Deep queries aren&#x27;t usually a problem as it&#x27;s usually just waiting on I&#x2F;O, it&#x27;s wide queries that are a bigger concern. I just remember that CPU load was very low compared to other metrics, so I mostly focused on fixing memory (which was related to the file descriptor issue) usage.<p>One issue I see a lot of (which happens to be part of the problem in this case) is people overfetching data on their list UI (e.g. search results) so that the detail page data is already in the client side store. But this is usually a premature optimisation and ends up causing more problems than it solves.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934209",
+      "id": "21934258",
+      "time": "1577961071",
+      "timestamp": "2020-01-02 10:31:11 UTC",
+      "by": "BLKNSLVR",
+      "text": "It&#x27;s not like a barbecue fire that can be controlled with a garden hose.  As someone else in this thread has mentioned, one of the fire fronts is 180km wide.<p>Edit: 180km perimeter<p>I think the article says that one of the fires has burnt an area the size of the state of Rhode Island.<p><a href=\"https:&#x2F;&#x2F;www.google.com&#x2F;search?q=Australian+bushfires\" rel=\"nofollow\">https:&#x2F;&#x2F;www.google.com&#x2F;search?q=Australian+bushfires</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934012",
+      "id": "21934257",
+      "time": "1577961050",
+      "timestamp": "2020-01-02 10:30:50 UTC",
+      "by": "Mirioron",
+      "text": "&gt;<i>The invitation to provide concrete examples of valuable discourse that&#x27;s criminalized by hate speech is only one of several avenues available for this.</i><p>The parent poster brought up a pretty <i>important</i> example:<p>&gt;<i>Unreasonable discourse has been instrumental in much of our progress as a society, I can’t imagine why anybody would have so much contempt for it.</i><p>If you need even more concrete, then how&#x27;s this: the civil rights movement could&#x27;ve easily been classified as &quot;hate speech&quot; and legally squashed because it was unpopular when it started. Talk about gay marriage could&#x27;ve been legally squashed, because is was unpopular when the discussion started.<p>Do you really believe that we have the world so well figured out that there will never be anything controversial in the future that will be unpopular at first? Because if you don&#x27;t, then hate speech laws are going to be used against those ideas.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931585",
+      "id": "21934255",
+      "time": "1577961039",
+      "timestamp": "2020-01-02 10:30:39 UTC",
+      "by": "trevyn",
+      "text": "I think the exercise of {clarifying why it is nonsense} has value.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933710",
+      "id": "21934254",
+      "time": "1577961037",
+      "timestamp": "2020-01-02 10:30:37 UTC",
+      "by": "feanaro",
+      "text": "&gt; The only tangible evolution of signal in the past year has been new cat and dog stickers that no one asked for.<p>This is not true. Signal has been adding some very novel and bleeding edge privacy enhancements, such as sealed sender (<a href=\"https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;sealed-sender&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;sealed-sender&#x2F;</a>) and private groups (i.e. encrypted group state, <a href=\"https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;signal-private-group-system&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;signal.org&#x2F;blog&#x2F;signal-private-group-system&#x2F;</a>).<p>That said, it&#x27;s also untrue that federated services are stuck in time. See Matrix (<a href=\"https:&#x2F;&#x2F;matrix.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;matrix.org&#x2F;</a>).",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931600",
+      "id": "21934253",
+      "time": "1577961037",
+      "timestamp": "2020-01-02 10:30:37 UTC",
+      "by": "rado",
+      "text": "From the article&#x27;s detractors I learned that while things are bad, they get the job done and we get paid, no problem. Yet faster loading does increase conversion and profit. Not to mention users will love a product that feels good. A good work organization is more beneficial than finding your way around someone else&#x27;s organization (the mega frameworks). Can any manager who also loves quality chime in? Thanks.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21917935",
+      "id": "21934252",
+      "time": "1577961032",
+      "timestamp": "2020-01-02 10:30:32 UTC",
+      "by": "teadrivendev",
+      "text": "Much of this is covered by The International WELL Building Institute guidelines, latest version is at <a href=\"https:&#x2F;&#x2F;www.wellcertified.com&#x2F;certification&#x2F;v2&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wellcertified.com&#x2F;certification&#x2F;v2&#x2F;</a>\nbut it is only slowly coming in as best practice and is a long way from being compulsory. It doesn&#x27;t completely cover all the aspects you listed, in particular - relevant to this thread - it doesn&#x27;t actually require red-shifting to simulate dusk - see FAQ #82 on <a href=\"https:&#x2F;&#x2F;v2.wellcertified.com&#x2F;v&#x2F;en&#x2F;light&#x2F;feature&#x2F;3\" rel=\"nofollow\">https:&#x2F;&#x2F;v2.wellcertified.com&#x2F;v&#x2F;en&#x2F;light&#x2F;feature&#x2F;3</a><p>So although you might consider it inadequate, there are certainly people looking into this and there is lots of science behind it.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931323",
+      "id": "21934251",
+      "time": "1577961028",
+      "timestamp": "2020-01-02 10:30:28 UTC",
+      "by": "ed_blackburn",
+      "text": "Sadly user management is crap domain for demonstrating Event Sourcing.<p>Equally building an entire system as Event Sourced is daft. Some aggregates ought to be Event Sourced nominally I’d say models that exhibit temporal properties like a business process or workflow are well suited.<p>Similarly the most common “issue” I see with Event Sourcing is conflating Event Sourcing and Event Driven Architecture. They can be complimentary but aren’t the same thing. This conflation and leads to a befuddled mess of inappropriate tech choices, and inappropriate consistency models.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932466",
+      "id": "21934250",
+      "time": "1577961014",
+      "timestamp": "2020-01-02 10:30:14 UTC",
+      "by": "justaj",
+      "text": "I furthermore don&#x27;t understand why they&#x27;re promoting what looks like a proprietary solution, while things like Briar exist: <a href=\"https:&#x2F;&#x2F;briarproject.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;briarproject.org&#x2F;</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933101",
+      "id": "21934249",
+      "time": "1577961010",
+      "timestamp": "2020-01-02 10:30:10 UTC",
+      "by": "RangerScience",
+      "text": "If you liked UNSONG and want (one of) the core philosophical  cosmoligical premises on its own: <a href=\"https:&#x2F;&#x2F;slatestarcodex.com&#x2F;2015&#x2F;03&#x2F;15&#x2F;answer-to-job&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;slatestarcodex.com&#x2F;2015&#x2F;03&#x2F;15&#x2F;answer-to-job&#x2F;</a><p>I don&#x27;t <i>actually</i> know that UNSONG is literally Answer To Job only long (excellent) fiction, but I don&#x27;t know it isn&#x27;t ;)",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934062",
+      "id": "21934245",
+      "time": "1577960990",
+      "timestamp": "2020-01-02 10:29:50 UTC",
+      "by": "tialaramex",
+      "text": "Signal&#x27;s 501(c)3 not-for-profit describes its mission as:<p>developing open source privacy technology that protects free expression and enables secure global communication.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934209",
+      "id": "21934244",
+      "time": "1577960988",
+      "timestamp": "2020-01-02 10:29:48 UTC",
+      "by": "logicchains",
+      "text": "It&#x27;s a reeeeealy big fire? Like how managing 10k servers is way harder than managing 10.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934160",
+      "id": "21934243",
+      "time": "1577960960",
+      "timestamp": "2020-01-02 10:29:20 UTC",
+      "by": "dmitriid",
+      "text": "In Stockholm people do cross at the red light, it&#x27;s a Stockholm thing to do :)<p>However, people try not to do that when there are children present.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932145",
+      "id": "21934242",
+      "time": "1577960957",
+      "timestamp": "2020-01-02 10:29:17 UTC",
+      "by": "pedagand",
+      "text": "That&#x27;s interesting: would you happen to have any reference implementing&#x2F;describing such a parser, by any chance?<p>In the crypto world, this is called &quot;bitslicing&quot;:<p><a href=\"https:&#x2F;&#x2F;www.bearssl.org&#x2F;constanttime.html#bitslicing\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bearssl.org&#x2F;constanttime.html#bitslicing</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934018",
+      "id": "21934241",
+      "time": "1577960930",
+      "timestamp": "2020-01-02 10:28:50 UTC",
+      "by": "FreeHugs",
+      "text": "There certainly is some benefit of this, but the barrier for bots is low. All it needs is a custom bot that can be written in minutes.<p>Because it seems to use a fixed set of question types. All of which a simple script can solve.<p>Example:<p><pre><code>    What is Mark&#x27;s name?\n</code></pre>\nWriting a script that extracts the name from this string is trivial. And the other question types are similarely easy.<p>The next step would be to allow the site owner to put in domain specific questions. For example a chemistry website might ask &quot;What is the formula of $moleclue?&quot;. And then provide [&#x27;Water&#x27;=&gt;&#x27;H2O&#x27;,&#x27;Salt&#x27;=&gt;&#x27;NaCl&#x27;...] as questions. Then the site would be protected from a general textcaptcha solver and bots would have to be customized for each domain.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934209",
+      "id": "21934240",
+      "time": "1577960929",
+      "timestamp": "2020-01-02 10:28:49 UTC",
+      "by": "kmlx",
+      "text": "you&#x27;ve got to understand australia is huge, as big as the united states.<p>so when you&#x27;ve got fires as big as european nations, it&#x27;s impossible to extinguish, even contain.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934174",
+      "id": "21934239",
+      "time": "1577960905",
+      "timestamp": "2020-01-02 10:28:25 UTC",
+      "by": "wahern",
+      "text": "It&#x27;s much less common to cross against a Do Not Walk signal in countries like Singapore and Japan. I&#x27;m pretty sure they&#x27;re still human.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933468",
+      "id": "21934238",
+      "time": "1577960901",
+      "timestamp": "2020-01-02 10:28:21 UTC",
+      "by": "pjmlp",
+      "text": "Worse is for those of us that actually played with some of those technologies, only to deal with stones and sticks afterwards.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934109",
+      "id": "21934237",
+      "time": "1577960879",
+      "timestamp": "2020-01-02 10:27:59 UTC",
+      "by": "yogrish",
+      "text": "Bosch is tier 1 supplier of components and parts to OEMs like VW, Daimler etc. they are already making Radar and camera sensors and systems. Every component supplier is into self driving development as they provide these Algos  along with their sensors and systems. Their competitors in this space include  DELPHI, continental, autoliv etc",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933409",
+      "id": "21934236",
+      "time": "1577960876",
+      "timestamp": "2020-01-02 10:27:56 UTC",
+      "by": "strictfp",
+      "text": "Sprints exist so that both management and devs can realize that there is more work than there is time. It forces devs to be focused and scope their work. It forces management to prioritize and scope down as well.<p>Keeping the deadline of the sprints is supposed to force management and devs to agree on reasonable scopes, such that the output of the dev team becomes predictable with time.<p>This enables devs to get trusted by management, breaking the poisonous relationship.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21930949",
+      "id": "21934235",
+      "time": "1577960871",
+      "timestamp": "2020-01-02 10:27:51 UTC",
+      "by": "machiaweliczny",
+      "text": "React is super simple - I could implement same API from memory so I don&#x27;t think it&#x27;s the root of the problem.<p>&gt; Nobody<p>Speak for yourself",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21930123",
+      "id": "21934234",
+      "time": "1577960850",
+      "timestamp": "2020-01-02 10:27:30 UTC",
+      "by": "pergadad",
+      "text": "Some people = probably 95-99% of internet users.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933891",
+      "id": "21934233",
+      "time": "1577960845",
+      "timestamp": "2020-01-02 10:27:25 UTC",
+      "by": "Arathorn",
+      "text": "Matrix absolutely targets normal users, much as the Web does too. I guess on the Matrix side we&#x27;ll put a blog post together to respond to Moxie&#x27;s points.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21930543",
+      "id": "21934232",
+      "time": "1577960832",
+      "timestamp": "2020-01-02 10:27:12 UTC",
+      "by": "Fr33maan",
+      "text": "And then it would become peertube <a href=\"https:&#x2F;&#x2F;joinpeertube.org\" rel=\"nofollow\">https:&#x2F;&#x2F;joinpeertube.org</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21926291",
+      "id": "21934231",
+      "time": "1577960823",
+      "timestamp": "2020-01-02 10:27:03 UTC",
+      "by": "Piskvorrr",
+      "text": "This is one of the explicitly unambiguous phrases introduced after <a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Tenerife_airport_disaster#Probable_cause\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Tenerife_airport_disaster#Prob...</a> ; note that the meaning of &quot;cleared for (allowed to) takeoff&quot; is completely different from &quot;leaving 3000 for (to the new level of) 2000&quot;. In essence, a different word entirely; one of the reasons it is avoided except in complete, unambiguously defined phrases.<p>Quoth Wikipedia:\nThe word &quot;takeoff&quot; is now spoken only when the actual takeoff clearance is given, or when cancelling that same clearance (i.e. &quot;cleared for takeoff&quot; or &quot;cancel takeoff clearance&quot;). Up until that point, aircrew and controllers should use the word &quot;departure&quot; in its place (e.g. &quot;ready for departure&quot;).",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933793",
+      "id": "21934230",
+      "time": "1577960810",
+      "timestamp": "2020-01-02 10:26:50 UTC",
+      "by": "ec109685",
+      "text": "Right, but that is different than the PM asking the development team what we should do this iteration.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932716",
+      "id": "21934229",
+      "time": "1577960804",
+      "timestamp": "2020-01-02 10:26:44 UTC",
+      "by": "andybak",
+      "text": "&gt; considering the various tradeoffs<p>Would love to know the tradeoffs. The main page at least is a static marketing page. Surely a canonical case where the page should render under almost any circumstances.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933882",
+      "id": "21934228",
+      "time": "1577960780",
+      "timestamp": "2020-01-02 10:26:20 UTC",
+      "by": "s_Hogg",
+      "text": "I dunno dude, Lenin absolutely hated Stalin so maybe he&#x27;s not an impartial character witness.<p>I&#x27;ve made my point - OP is obviously wrong and so are you - so that&#x27;s all from me.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934168",
+      "id": "21934226",
+      "time": "1577960769",
+      "timestamp": "2020-01-02 10:26:09 UTC",
+      "by": "erikbye",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.ssb.no&#x2F;en&#x2F;transport-og-reiseliv&#x2F;statistikker&#x2F;vtu&#x2F;aar\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ssb.no&#x2F;en&#x2F;transport-og-reiseliv&#x2F;statistikker&#x2F;vtu...</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933996",
+      "id": "21934224",
+      "time": "1577960752",
+      "timestamp": "2020-01-02 10:25:52 UTC",
+      "by": "mceoin",
+      "text": "Also important to recognize that Australia&#x27;s carbon contribution is not solely limited to domestic output but also our coal industry. Australia is the largest exporter of coal in the world and this is not properly accounted for in our emissions accounting. On a per-person basis, our output is among the highest in the world and the inaction of others does not absolve us from having a moral responsibility to clean up our own mess at the very least.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933731",
+      "id": "21934223",
+      "time": "1577960735",
+      "timestamp": "2020-01-02 10:25:35 UTC",
+      "by": "belorn",
+      "text": "The thread is very political. All the listed authoritarian behavior is also behavior that get associated with political behavior. Deliberately presenting ones own political views in the best light and presenting the opposite view in the worst light get sadly defined as just being politics, regardless of how false it is in an objective light. Undermining and disregarding rule of law is common everywhere, particular with laws that were put in place to restrict those in a position of power. A standard practice in politics is to also have a media policy that in ways favor the press that favors their side and limits the availability of everyone else.<p>It all comes down to what degree one finds the other sides behavior worse. In an objective perspective there is surely people that are worse than others, but we should not talk about it as if one side is above such behavior.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933868",
+      "id": "21934222",
+      "time": "1577960667",
+      "timestamp": "2020-01-02 10:24:27 UTC",
+      "by": "glutamate",
+      "text": "Good to see all that oil revenue being used to protect Norwegians, shame about the climate change.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934160",
+      "id": "21934221",
+      "time": "1577960666",
+      "timestamp": "2020-01-02 10:24:26 UTC",
+      "by": "kmlx",
+      "text": "same in the UK.<p>but more than that, in the UK in any intersection with traffic lights the pedestrians will never have a green light at the same time as cars.<p>meanwhile, in most countries i&#x27;ve visited making a left or a right turn in an intersection will most likely cause you to stop for pedestrians that also get a green light. frustrating and illogical!",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931323",
+      "id": "21934220",
+      "time": "1577960654",
+      "timestamp": "2020-01-02 10:24:14 UTC",
+      "by": "kureikain",
+      "text": "Even Sourcing is nice on paper but when having a few service you will feel pain if not do it properly.<p>We had applications listen to topics on Kafka and can re-play  to process the message. All sound goods. When we started to add more topics, we realize we no longer know who own the topic and subscribe to the topic. We no longer feel safe to just drop a topic and have to grep&#x2F;search around, however lots of these information is configured in environment variable, and sometime pull from our config management system such as Vault&#x2F;K8S config make it even  harder to grep because we have to export data out of these system and grep<p>I think event sourcing is nice and powerful but hard to done well.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933859",
+      "id": "21934218",
+      "time": "1577960619",
+      "timestamp": "2020-01-02 10:23:39 UTC",
+      "by": "Mirioron",
+      "text": "Is it a persecution complex when many of these kinds of &quot;technical errors&quot; seem to so often befall people from one political persuasion? Some of them clearly weren&#x27;t errors and that has happened enough that people stop believing that it&#x27;s just an error, because these companies have demonstrated in the past that they don&#x27;t mind doing moves such as that.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933328",
+      "id": "21934217",
+      "time": "1577960619",
+      "timestamp": "2020-01-02 10:23:39 UTC",
+      "by": "peter303",
+      "text": "Don was worked near the beginning of CS and could fashion it whatever way he thought best.<p>Which reminds me its time to view his annual emeritus youtube lecture he gives in December. Still working.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934039",
+      "id": "21934216",
+      "time": "1577960616",
+      "timestamp": "2020-01-02 10:23:36 UTC",
+      "by": "vinay427",
+      "text": "Yes, and this is true in virtually every country. The licenses of almost every country are accepted for visitors in any of those same countries, thanks to some UN conventions.<p>An international driving permit which uses a standardized format and includes translations may be required.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933964",
+      "id": "21934215",
+      "time": "1577960606",
+      "timestamp": "2020-01-02 10:23:26 UTC",
+      "by": "pnako",
+      "text": "The world predominantly doesn&#x27;t care.\nGlobal warming alarmism is a hobby mostly enjoyed by left-wing people in wealthy Western countries, i.e. about 5% of the world population. Very fitting that they picked a high-school dropout from Sweden as their moral authority.<p><a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Climate_change_opinion_by_country#&#x2F;media&#x2F;File:Climate_change_concern_by_country_2008-2009.png\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Climate_change_opinion_by_coun...</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934198",
+      "id": "21934214",
+      "time": "1577960585",
+      "timestamp": "2020-01-02 10:23:05 UTC",
+      "by": "atulvi",
+      "text": "This is true for any new product",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934192",
+      "id": "21934213",
+      "time": "1577960574",
+      "timestamp": "2020-01-02 10:22:54 UTC",
+      "by": "mytailorisrich",
+      "text": "I might be cynical but IMHO there is no end to creative rationalisation of the poor investment in road infrastructure in the UK...",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934140",
+      "id": "21934212",
+      "time": "1577960572",
+      "timestamp": "2020-01-02 10:22:52 UTC",
+      "by": "semi-extrinsic",
+      "text": "There are many factors. Cars are getting safer, streets are getting safer, LED lighting has vastly improved visibility for cars and bikes and pedestrians, and also that Norwegian driver education is very thorough.<p>Drivers ed starts with a 17 hours (2&#x2F;3 days) theory course, then you are allowed at 16 to start practice driving with parent&#x2F;other experienced driver in the passenger seat, then you do mandatory hands-on courses on: night driving, cold weather driving, safety driving (on closed track); typically you take at least 5-10 driving lessons on public roads with a certified instructor, then you can take the theoretical exam, and finally the 1-hour driving test before you get your certificate.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21910406",
+      "id": "21934211",
+      "time": "1577960558",
+      "timestamp": "2020-01-02 10:22:38 UTC",
+      "by": "kapilvt",
+      "text": "Nice write up.<p>The python software foundation is currently sponsoring work to bring additional cryptographic verification to pypi <a href=\"https:&#x2F;&#x2F;github.com&#x2F;python&#x2F;request-for&#x2F;blob&#x2F;master&#x2F;2019-Q4-PyPI&#x2F;RFI.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;python&#x2F;request-for&#x2F;blob&#x2F;master&#x2F;2019-Q4-Py...</a><p>Some additional links wrt to other tools, techniques, and exploits on pypi security <a href=\"https:&#x2F;&#x2F;python-security.readthedocs.io&#x2F;packages.html\" rel=\"nofollow\">https:&#x2F;&#x2F;python-security.readthedocs.io&#x2F;packages.html</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931464",
+      "id": "21934210",
+      "time": "1577960553",
+      "timestamp": "2020-01-02 10:22:33 UTC",
+      "by": "danenania",
+      "text": "&quot;I can&#x27;t think of a single legitimate use case that couldn&#x27;t be solved better than by hiding your true capabilities, and thus wasting people&#x27;s time.&quot;<p>Consider a loading spinner with a line of copy that explains what&#x27;s happening. Say it&#x27;s for an action that can take anywhere from 20 milliseconds to several seconds, based on a combination of factors that are hard to predict beforehand. At the low end, showing the spinner will result in it flashing on the screen jarringly for just a frame. To the user it will appear as some kind of visual glitch since they won&#x27;t have time to even make out what it is, much less read the copy.<p>In situations like this, it&#x27;s often a good idea to introduce an artificial delay up to a floor that gives the user time to register what&#x27;s happening and read the copy.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933561",
+      "id": "21934209",
+      "time": "1577960539",
+      "timestamp": "2020-01-02 10:22:19 UTC",
+      "by": "benjaminsuch",
+      "text": "Excuse my ignorance, can anyone explain to me what makes it so difficult to extinguish the fire? (This question is not meant to be an ass) I tried to google it, but couldn&#x27;t find a proper answer. I&#x27;m just really curious.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934085",
+      "id": "21934208",
+      "time": "1577960530",
+      "timestamp": "2020-01-02 10:22:10 UTC",
+      "by": "INTPenis",
+      "text": "Much of Scandinavia is good at this, except when it comes to old city centres. And I believe Oslo has a large old and hilly centre.<p>So we&#x27;re good at separating bikes from cars, when it&#x27;s practical and when we have the space to do so. Gothenburg and Stockholm city centres are two bad examples. While Malmö city is a very good example.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934121",
+      "id": "21934207",
+      "time": "1577960496",
+      "timestamp": "2020-01-02 10:21:36 UTC",
+      "by": "blensor",
+      "text": "I only released the first test version a week ago and it&#x27;s relying on the beta of godot as well as a patched export template to support hand tracking, that&#x27;s why I haven&#x27;t released it yet. There is currently development going on to integrate the necessary changes into the godot_oculus_mobile plugin and into Godot itself to support that. Once it can be run without patching several different components I will add the source. \nOr if too many people ask and giving that explanation becomes more work than actually supporting them to get it running before everything works out of the box :)",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932979",
+      "id": "21934206",
+      "time": "1577960492",
+      "timestamp": "2020-01-02 10:21:32 UTC",
+      "by": "StanislavPetrov",
+      "text": "Maybe we don&#x27;t see them because they aren&#x27;t as numerous, because they aren&#x27;t interested in spreading out.  Maybe the &quot;drive&quot; to spread out and colonize the universe or the cultures that would encourage that frame of thought are linked to a propensity to wage war or other some other counterproductive behavior that results in extinction before achieving the ability to colonize the stars.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934148",
+      "id": "21934205",
+      "time": "1577960489",
+      "timestamp": "2020-01-02 10:21:29 UTC",
+      "by": "Angostura",
+      "text": "I would like to see your break down your belief structure a bit more, so I can understand it.<p>Which of you do you believe?<p>1. That CO2 isn&#x27;t a greenhouse gas?\n2. That increasing the concentrations of CO2 in the atmosphere doesn&#x27;t influence global temperatures?\n3. That human activity hasn&#x27;t increased CO2 concentrations significantly.<p>If you answer those, we&#x27;ll be able to know where your head is a bit better.<p>FWIW, no-one has ever argued that CO2 levels is the <i>only</i> factor effecting climate.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21861055",
+      "id": "21934204",
+      "time": "1577960477",
+      "timestamp": "2020-01-02 10:21:17 UTC",
+      "by": "Heyso",
+      "text": "I am reading your comments with interest. I do not find myself losing time using Typescript, quite the opposite, typing is in code documentation. And I find it much easier to read than untyped code. You say that TS dev focus more on code, maybe it is because they like to focus more on code that they use TS. I do agree you can waste time searching how to type a complicated piece of code. Meanwhile it is worth typing that piece of code if it is subject to change, or that the usage of it is not easy to understand.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933868",
+      "id": "21934202",
+      "time": "1577960441",
+      "timestamp": "2020-01-02 10:20:41 UTC",
+      "by": "INTPenis",
+      "text": "Just speculation but considering the weather we&#x27;ve had this year it could be due to the lack of snow and ice.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934120",
+      "id": "21934201",
+      "time": "1577960435",
+      "timestamp": "2020-01-02 10:20:35 UTC",
+      "by": "soneca",
+      "text": "I would love to live in a city where 1 traffic death is within the distribution, so I think it means a lot.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933054",
+      "id": "21934200",
+      "time": "1577960434",
+      "timestamp": "2020-01-02 10:20:34 UTC",
+      "by": "SwiftyBug",
+      "text": "Can you name some of them? Just out of curiosity.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933635",
+      "id": "21934199",
+      "time": "1577960423",
+      "timestamp": "2020-01-02 10:20:23 UTC",
+      "by": "sammachin",
+      "text": "Just use payphones",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934018",
+      "id": "21934198",
+      "time": "1577960422",
+      "timestamp": "2020-01-02 10:20:22 UTC",
+      "by": "rienbdj",
+      "text": "interesting idea. the fact that I have never encountered one of these in use suggests that they don&#x27;t work well enough.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932484",
+      "id": "21934197",
+      "time": "1577960416",
+      "timestamp": "2020-01-02 10:20:16 UTC",
+      "by": "growlist",
+      "text": "Exactly. It&#x27;s trivial to prove that Google&#x27;s results have a strong political bias.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21930374",
+      "id": "21934194",
+      "time": "1577960409",
+      "timestamp": "2020-01-02 10:20:09 UTC",
+      "by": "Matthias247",
+      "text": "You can do it with a single bit: Read the whole unit (eg 64 bit), flip the big you need, and then do a Compare exchange which tries to replace the whole retrieved thingy with the modified one.<p>That obviously requires you to read the current state upfront, whereas a plan compare exchange from 0 to 1 on 32&#x2F;64Bit avoids that.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21928021",
+      "id": "21934193",
+      "time": "1577960408",
+      "timestamp": "2020-01-02 10:20:08 UTC",
+      "by": "ncmncm",
+      "text": "I see two alternatives, each sufficient:<p>1. Expansionist civilizations eventually encounter another one, and reliably obliterate one another. (Note, this is not &quot;Dark Forest&quot;: it requires no long-lasting structure of any kind, just the occasional chance encounter that turns out badly.)<p>2. Expansionist civilizations find goldielocks planets both unnecessary and limiting, and just leave them the hell alone.  They probably mostly use Neptune-like planets, when they have a use for a planet at all. Maybe they are at &quot;our&quot; Neptune right now, and have not contacted us, because why bother? We&#x27;re &quot;Made out of Meat&quot;.\n&lt;<a href=\"https:&#x2F;&#x2F;www.mit.edu&#x2F;people&#x2F;dpolicar&#x2F;writing&#x2F;prose&#x2F;text&#x2F;thinkingMeat.html&gt;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.mit.edu&#x2F;people&#x2F;dpolicar&#x2F;writing&#x2F;prose&#x2F;text&#x2F;think...</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934145",
+      "id": "21934192",
+      "time": "1577960407",
+      "timestamp": "2020-01-02 10:20:07 UTC",
+      "by": "jka",
+      "text": "Do you have a reference for that, out of interest?<p>That might genuinely be the intention but I&#x27;d worry that -- depending on the kind of &#x27;challenge&#x27; added to roads -- it might not always work out for the best.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931992",
+      "id": "21934191",
+      "time": "1577960385",
+      "timestamp": "2020-01-02 10:19:45 UTC",
+      "by": "mikro2nd",
+      "text": "So why is it persistently, perniciously and stubbornly insistent in refusing to spell &#x27;naughty&#x27; words like &#x27;duck&#x27;?",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934182",
+      "id": "21934189",
+      "time": "1577960382",
+      "timestamp": "2020-01-02 10:19:42 UTC",
+      "by": "INTPenis",
+      "text": "As a cyclist in Malmö, Sweden, I wish I could shout at some people sometimes. But truth is that people cross against red all the time with no consequences.<p>I stay out of principle.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21929911",
+      "id": "21934188",
+      "time": "1577960381",
+      "timestamp": "2020-01-02 10:19:41 UTC",
+      "by": "cryptica",
+      "text": "It makes me wonder whether quantum computers can actually solve problems... Does this mean that each person can get a different result from the same calculation done by the same quantum computer?<p>Doesn&#x27;t this make quantum computers completely useless?",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934145",
+      "id": "21934186",
+      "time": "1577960366",
+      "timestamp": "2020-01-02 10:19:26 UTC",
+      "by": "vinay427",
+      "text": "These are different types of changes like lane narrowing or lane marker omitting that don&#x27;t aim to make driving less intuitive, but to decrease the perceived safe speed of travel. They&#x27;re trying to make driving feel more difficult without actually increasing the danger level, which the  decreases the danger for everyone else on the road.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934140",
+      "id": "21934185",
+      "time": "1577960352",
+      "timestamp": "2020-01-02 10:19:12 UTC",
+      "by": "jallasprit",
+      "text": "Interesting point, but I&#x27;m under the impression (after living in Oslo my entire life) that it has to do with a well laid out seperation between heavy traffic (ie. buses) and pedestrians, along with relatively low speed limits and restrictions on private cars in the city center.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934174",
+      "id": "21934184",
+      "time": "1577960344",
+      "timestamp": "2020-01-02 10:19:04 UTC",
+      "by": "fenrisbear",
+      "text": "Also there&#x27;s a traffic law enabling pedestrians to freely  cross the road if there is no obstruction to the traffic.<p>There&#x27;s still some people that don&#x27;t know their limits, but that gives an idea of how this works in practice",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934140",
+      "id": "21934183",
+      "time": "1577960335",
+      "timestamp": "2020-01-02 10:18:55 UTC",
+      "by": "pi-rat",
+      "text": "It&#x27;s being attributed to safer cars, better roads, lower speed limits, more cycle lanes and less cars in the city center. (cars were &#x2F; are being banned from parts of the city)",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934174",
+      "id": "21934182",
+      "time": "1577960318",
+      "timestamp": "2020-01-02 10:18:38 UTC",
+      "by": "hycaria",
+      "text": "Ive been shouted at in Germany for crossing at red light, even with no car in sight, and for how bad an example this was for children at the scene.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934160",
+      "id": "21934181",
+      "time": "1577960310",
+      "timestamp": "2020-01-02 10:18:30 UTC",
+      "by": "thomasfl",
+      "text": "I can confirm that bicyclists often cross the street on red light. Almost every biker uses helmets in Oslo. In the netherlands you rarely see any helmets on bicyclists.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934086",
+      "id": "21934180",
+      "time": "1577960308",
+      "timestamp": "2020-01-02 10:18:28 UTC",
+      "by": "nomercy400",
+      "text": "It&#x27;s a bit strange to use the population density of Australia to make a point, as the population density of Australia is one of the lowest in the world (3).<p>You&#x27;re basically saying we should tackle Australia&#x27;s 481 before China&#x27;s 3523 or India&#x27;s 716 or US&#x27; 702. Maybe we should tackle China first, as it is producing 45% of the world&#x27;s coal, compared to 6% of Australia.<p>Now if you were to say that Australia is the 5th biggest producer of coal in the world, that&#x27;d be a more convincing argument.<p>I&#x27;m also surprised by Indonesia (6th). And the fact that Germany and Poland contribute 60% of the EU&#x27;s (4th) coal production.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933092",
+      "id": "21934177",
+      "time": "1577960278",
+      "timestamp": "2020-01-02 10:17:58 UTC",
+      "by": "Cthulhu_",
+      "text": "It Depends, as always. The problem React was originally solving was that DOM updates cause re-rendering which can be slow; jquery (usually) works directly in the DOM, so applications heavy in updates don&#x27;t perform well.<p>So initially an equivalent React and jQuery app would have React look a lot faster, due to smart &#x2F; batched DOM updates. However, because React is so fast it made people create apps differently.<p>As always in software development, an application will grow to fill up available performance &#x2F; memory. If people were to develop on intentionally constricted computers they would do things differently.<p>(IIRC, at Facebook they&#x27;ll throttle the internet on some days to 3g speeds to force this exact thing. Tangentially related, at Netflix (iirc) they have Chaos Monkey which randomly shuts down servers and causes problems, so errors are a day to day thing instead of an exception they&#x27;ve not foreseen).",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934037",
+      "id": "21934176",
+      "time": "1577960264",
+      "timestamp": "2020-01-02 10:17:44 UTC",
+      "by": "TeMPOraL",
+      "text": "<i>Direct</i> replies. One of the best features of tree-based discussion is that &quot;thread-jacking&quot; not only isn&#x27;t a problem, it&#x27;s beneficial. A discussion tree can handle subthreads and tangents just fine.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934069",
+      "id": "21934175",
+      "time": "1577960215",
+      "timestamp": "2020-01-02 10:16:55 UTC",
+      "by": "AmericanChopper",
+      "text": "“Hate speech” laws are simply enforcing an orthodox morality. In my life I’ve seen many different groups attempt it. When I was a kid it was conservative Christians lobbying Congress to get Twisted Sister off MTV, and god forbid (literally) you wanted to promote some sort of alternative sexuality... Luckily for us, society rejected the enforced morality then, just as its doing now with all the backlash against this sort of toxic politics.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934160",
+      "id": "21934174",
+      "time": "1577960211",
+      "timestamp": "2020-01-02 10:16:51 UTC",
+      "by": "INTPenis",
+      "text": "That&#x27;s not different at all. Why would Norwegians be different from other humans? I can confirm that Swedes and danes do this too.<p>And being of croatian descent I can confirm they do it there too. It&#x27;s not a cultural thing, it&#x27;s a human thing to be impatient.<p>If anything it speaks of the flow of traffic.<p>Here in Sweden you can often safely cross the street because the entire length of the street has lights that work in a pattern. So there are long gaps in traffic due to lights further up&#x2F;downstream on the street.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934029",
+      "id": "21934173",
+      "time": "1577960210",
+      "timestamp": "2020-01-02 10:16:50 UTC",
+      "by": "thethirdone",
+      "text": "I am not quite understanding the missed improvement you are talking about.<p>Are you saying that instead of (or in addition to) &quot;branch if equal&quot;, &quot;branch if less than&quot;, etc there should be a &quot;set if equal&quot;, &quot;set if less than&quot;, etc? In case you are, there is a &quot;set if less than&quot; instruction. The floating point extension does have a &quot;set if equal&quot; instruction despite there not being an integer equivalent.<p>Alternatively if you are complaining about 1 representing True rather than ~0, I don&#x27;t think that matters much from a technical POV.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934032",
+      "id": "21934171",
+      "time": "1577960181",
+      "timestamp": "2020-01-02 10:16:21 UTC",
+      "by": "lerpapoo",
+      "text": "yea, I don&#x27;t like articles like this for the same reason. nobody has the brain power (yet) to rewrite the entire stack in a gpu shader and add in complex logic and a dynamic interface. it&#x27;s an optimization vs delivery tradeoff. If someone is getting payed to build a product, they must deliver it with the tools at hand, you can invest time to optimize it but it will come at a cost of less features. This also depends on the industry, if you are building lower stack drivers that others will depend on, you care about performance more. Higher level applications are more user oriented and care more about ui and features. organically, people tend to spend their time and braincells in the most valuable way they can. a lot of products, especially in the web world, features hold more value than performance. Once we get the agi thing going, we can just task it to strip and redesign the entire OS down to the kernel and tailored for every user, strip everything down to only the buttons that the user clicks. some granny only knows how to open up google and read her newspaper website, all that other code can be removed lol.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932381",
+      "id": "21934170",
+      "time": "1577960180",
+      "timestamp": "2020-01-02 10:16:20 UTC",
+      "by": "useragent86",
+      "text": "Another site that shows a completely blank page when first-party cookies are disabled.<p>It seems like an epidemic lately.  So much JS in the wild just stops cold when some cookie or LocalStorage permission isn&#x27;t available, and that failure prevents some other JS from running that unhides the page or runs a CSS transition.  It doesn&#x27;t seem like long ago when most sites at least showed some content when cookies were disabled, but that&#x27;s beginning to feel like the exception.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934009",
+      "id": "21934169",
+      "time": "1577960148",
+      "timestamp": "2020-01-02 10:15:48 UTC",
+      "by": "TuringTest",
+      "text": "Good observation. The toy model in the paper has some obvious limits, for example it also doesn&#x27;t account for accumulated capital allowing to &quot;create your own luck&quot; nor exploit successful events more easily.<p>However, neither accounting for endurance nor wealth changes the fact that luck is a main determinant of final success. Those with early luck will not need endurance to survive, and those with the longer overall run of lucky events will come on top of those with fewer lucky events.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933868",
+      "id": "21934168",
+      "time": "1577960142",
+      "timestamp": "2020-01-02 10:15:42 UTC",
+      "by": "aledalgrande",
+      "text": "I wonder also how the situation of Norway as a whole is? And is there a chart for other countries?",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933035",
+      "id": "21934167",
+      "time": "1577960120",
+      "timestamp": "2020-01-02 10:15:20 UTC",
+      "by": "jka",
+      "text": "Good food for thought, thanks.<p>From a little more digging to try to break out of my bubble, here are some reading references:<p>Of beef, pork, lamb, poultry, and fish -- only poultry has seen any broad increase in expenditure by UK households over the past few years (and slim, at 2%); all others have decreased or remained the same[0].  I&#x27;m not claiming that&#x27;s related to environmental concerns directly but it shows some changes in behaviour.<p>Air travel passenger numbers are certainly on the rise[1], although interestingly the number of flights (&#x27;air travel movements&#x27;) appears to be somewhat more muted.  Even so, greenhouse gas emissions from aviation have certainly increased a lot since the 1990s.<p>Brexit and the prospect of a high-spending majority UK government could both have impacts on these over the next decade, no doubt - but in what direction I&#x27;m not sure.<p>[0] - <a href=\"https:&#x2F;&#x2F;www.gov.uk&#x2F;government&#x2F;publications&#x2F;food-statistics-pocketbook&#x2F;food-statistics-in-your-pocket-prices-and-expenditure\" rel=\"nofollow\">https:&#x2F;&#x2F;www.gov.uk&#x2F;government&#x2F;publications&#x2F;food-statistics-p...</a><p>[1] - <a href=\"https:&#x2F;&#x2F;assets.publishing.service.gov.uk&#x2F;government&#x2F;uploads&#x2F;system&#x2F;uploads&#x2F;attachment_data&#x2F;file&#x2F;855288&#x2F;tsgb-2019.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;assets.publishing.service.gov.uk&#x2F;government&#x2F;uploads&#x2F;...</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934047",
+      "id": "21934166",
+      "time": "1577960111",
+      "timestamp": "2020-01-02 10:15:11 UTC",
+      "by": "Autowired",
+      "text": "I agree with you, maybe except about the atomicity part. When you use event sourcing, your source of truth becomes the event log, so transactioning against your local representation of the state does not give you the same guarantees.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933521",
+      "id": "21934165",
+      "time": "1577960097",
+      "timestamp": "2020-01-02 10:14:57 UTC",
+      "by": "bencollier49",
+      "text": "Which side it happens to be is on entirely context-driven. If the object of &quot;yak shaving&quot; happens to be a mathematical proof, then the yak must be shaved. But if you have to get a system working within five minutes to stop your company losing ten million pounds, then the yak can remain unmolested.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931815",
+      "id": "21934164",
+      "time": "1577960087",
+      "timestamp": "2020-01-02 10:14:47 UTC",
+      "by": "lizmat",
+      "text": "Perhaps NQRFS?  (Not Quite ReiserFS) ?",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934102",
+      "id": "21934163",
+      "time": "1577960072",
+      "timestamp": "2020-01-02 10:14:32 UTC",
+      "by": "TeMPOraL",
+      "text": "Karmongers?",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933993",
+      "id": "21934162",
+      "time": "1577960068",
+      "timestamp": "2020-01-02 10:14:28 UTC",
+      "by": "close04",
+      "text": "Perhaps this would be another way to obfuscate the collection of metadata with techniques similar to anti-fingerprinting techniques in Tor. An app like Signal could sync the time across all parties and send&#x2F;receive all data in predetermined packet sizes and at predetermined delivery times across vast enough segments of their network. This would in theory make it a lot harder to infer who are the partners in a specific conversation based on timestamps and traffic volume.<p>The mechanism for picking the interval and packet size is debatable as long as the entropy of these values is low enough (does not allow for uniquely identifiable values). Maybe randomly from a list of predetermined values, taking into account some priority you set in advance, the size of the message, or the network conditions.<p>If every client&#x2F;server on the network sent and received the data in synced identically looking bursts it might raise the bar for successful metadata analysis. Any chance Signal or any other app already do this?",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934089",
+      "id": "21934161",
+      "time": "1577960059",
+      "timestamp": "2020-01-02 10:14:19 UTC",
+      "by": "adrianN",
+      "text": "The IPCC reports are solid science not made by anonymous people on an Internet forum and claim the opposite of what you say. As I&#x27;m not an expert myself, I tend to trust the majority of the climate scientists.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933868",
+      "id": "21934160",
+      "time": "1577960034",
+      "timestamp": "2020-01-02 10:13:54 UTC",
+      "by": "gokhan",
+      "text": "One interesting observation on Oslo is that, pedestrians do cross the street when it&#x27;s red for them, if there&#x27;s no moving traffic close by. This is totally different from, for example, Copenhagen, Stockholm and places I visited in Germany. They&#x27;re like Italians of the north.<p>That&#x27;s probably why we felt at home on the streets during our stay there, as a family from Turkey. I would love to have that 0 deaths statistics here instead, though.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934137",
+      "id": "21934159",
+      "time": "1577960027",
+      "timestamp": "2020-01-02 10:13:47 UTC",
+      "by": "aledalgrande",
+      "text": "This is quite epic. It&#x27;s like they live in a country where gov uses their brains to help.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933835",
+      "id": "21934158",
+      "time": "1577960003",
+      "timestamp": "2020-01-02 10:13:23 UTC",
+      "by": "Mirioron",
+      "text": "How do you propose somebody demonstrate that something did <i>not</i> happen <i>because</i> of hate speech restrictions? It is very difficult to prove a negative. What we can do is reason over the situations that have cropped up. Do you think it&#x27;s a net benefit to society that a teenager was arrested and had to wear an ankle bracelet for posting lyrics of a song on Instagram in remembrance of someone that was killed? Because I don&#x27;t think that&#x27;s good for society. I think that she&#x27;s now much less likely to speak her mind on the future, because she has essentially already been punished for doing that in the past.<p>&gt;<i>Presumably you don&#x27;t believe that being arrested for theft is a demonstration about how property law harms people.</i><p>Theft is demonstrably bad for society and it is generally easy to separate theft from non-theft. Therefore punishing theft is a net good for society, because we want to discourage theft.<p>I&#x27;ve not seen someone demonstrate that hate speech is bad for society. Furthermore, hate speech is <i>not</i> easy to separate from regular speech. This means that if you discourage hate speech you&#x27;ll likely discourage some regular speech as well.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932971",
+      "id": "21934156",
+      "time": "1577959965",
+      "timestamp": "2020-01-02 10:12:45 UTC",
+      "by": "tialaramex",
+      "text": "For Domain Fronting in particular it&#x27;s embarrassing that pro-distributed people have taken it as a &quot;victory&quot; that AWS and Google disabled domain fronting used as an anti-censorship mechanism for Signal. That&#x27;s both a terrible look &quot;Ha! Our services are so unpopular nobody even cares to block them&quot; and a grave misunderstanding of the situation.<p>The big CDNs and cloud service providers are actually very enthusiastic about domain fronting, what they blocked was the technical mechanism abused to make it happen, because it causes their reliability teams pain. Domain fronting means you figure out this is a request for thing-a.example.com using SNI, your backend systems cue up the Thing A service... and then during HTTP headers the client insists it intended to talk to thing-b.example.com all along instead and you&#x27;ve got to either give an error or somehow backtrack and make that happen. Doing this is very easy, indeed the default, in say one Apache httpd on a Linux box. But Google or AWS isn&#x27;t a data centre full of Apache httpds on Linux boxes, it&#x27;s a bit more complicated than that.<p>When I say they&#x27;re enthusiastic I don&#x27;t mean just empty words, the active direction of QUIC, eSNI, the revised HTTP service record for DNS and so on are all aligned with the domain fronting concept, just not in the form of abusing different protocol layers. They want to know early in the connection which service you&#x27;re intending to reach, while preserving your privacy from snooping governments, etc.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931429",
+      "id": "21934154",
+      "time": "1577959940",
+      "timestamp": "2020-01-02 10:12:20 UTC",
+      "by": "TazeTSchnitzel",
+      "text": "His former wife will still be dead.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932749",
+      "id": "21934155",
+      "time": "1577959940",
+      "timestamp": "2020-01-02 10:12:20 UTC",
+      "by": "TheOtherHobbes",
+      "text": "CSS is a dystopian nightmare from a Lovecraftian dimension of metaphysical horror.<p>I had to do a teeny-tiny bit of CSS work before Christmas and I literally had to look up the edge cases and exceptions for all of the five common CSS statements I ended up using, because they were all context-dependent in insane ways - endless &quot;This only works if XXXX is also applied here, but does nothing&#x2F;fails silently if it isn&#x27;t, even though you might expect it to work, and this mode is only documented on StackExchange etc because the official CSS docs are incomprehensible and no one ever reads them anyway. And by the way, you&#x27;ll also need a file of resets for many of the most common options.&quot;<p><a href=\"https:&#x2F;&#x2F;www.w3.org&#x2F;Style&#x2F;CSS&#x2F;current-work\" rel=\"nofollow\">https:&#x2F;&#x2F;www.w3.org&#x2F;Style&#x2F;CSS&#x2F;current-work</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934012",
+      "id": "21934153",
+      "time": "1577959935",
+      "timestamp": "2020-01-02 10:12:15 UTC",
+      "by": "AmericanChopper",
+      "text": "I most certainly meant ‘rationalization’, believing that freedom of expression, the most fundamental building block of a free society, should be restricted to your own idea of reasonable is absolutely something that you need to internally rationalize.<p>&gt; your apparent supposition here is that lines regarding reasonable discourse should be scare quoted, or are mere matters of entirely subjective speculation.<p>Reasonable is an entirely subjective quality, there is no objective framework for divining reasonableness.<p>&gt; If you want to fix your thinking on the topic<p>The fact that you believe you have some position of authority to dictate to others how they should “fix their thinking”, so that their thoughts are somehow more correct, really says a lot about you.<p>&gt; The invitation to provide concrete examples of valuable discourse that&#x27;s criminalized by hate speech<p>Here you go, legitimate religious speech resulting in a conviction:<p><a href=\"https:&#x2F;&#x2F;en.m.wikipedia.org&#x2F;wiki&#x2F;Harry_Hammond\" rel=\"nofollow\">https:&#x2F;&#x2F;en.m.wikipedia.org&#x2F;wiki&#x2F;Harry_Hammond</a><p>Here’s another person receiving a wrongful arrest payout for exactly the same crime, to highlight exactly how absurd these laws are, even to the people enforcing them:<p><a href=\"https:&#x2F;&#x2F;www.nwemail.co.uk&#x2F;news&#x2F;18098283.preacher-wins-payout-police-wrongful-arrest&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nwemail.co.uk&#x2F;news&#x2F;18098283.preacher-wins-payout...</a><p>Of course, please feel free to explain to me why none of that speech was reasonable in the first place. Perhaps you could enlighten me with some correct thinking.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933377",
+      "id": "21934152",
+      "time": "1577959934",
+      "timestamp": "2020-01-02 10:12:14 UTC",
+      "by": "rusticpenn",
+      "text": "Anaconda is managed by a private company (<a href=\"https:&#x2F;&#x2F;www.anaconda.com&#x2F;about-us&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.anaconda.com&#x2F;about-us&#x2F;</a>).",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932495",
+      "id": "21934149",
+      "time": "1577959888",
+      "timestamp": "2020-01-02 10:11:28 UTC",
+      "by": "icebraining",
+      "text": "Curious example; while typical home automation is rare around here, kitchen robots (particularly Thermomix) sell like hotcakes. People are happy to pay a full month&#x27;s wage to debug rice programs.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934104",
+      "id": "21934148",
+      "time": "1577959880",
+      "timestamp": "2020-01-02 10:11:20 UTC",
+      "by": "maddog3356",
+      "text": "The big evidence that higher concentrations of CO2 cause global warming was just the graph in Gore&#x27;s movie.  I thoroughly debunked that graph.  You have a defense of that graph?<p>Next, we just canNOT take junk evidence as a reason for big, expensive responses.  As I explained that would take us back to killing people to pour their blood on a rock to keep the sun moving across the sky.<p>With no good historical evidence, the idea was to try the theory starting with the absorption spectrum of CO2.  I gave that spectrum.  Then some dozens of teams did computations starting with that spectrum.  I reported the results of those computations:  Nearly all of them have long since proved to be wildly inaccurate.  So, the theory fails.<p>Net, we have no good evidence.<p>Your X, Y, Z is not evidence at all.  Neither is anything about Scotland.<p>Again, once again, over again, yet again, if you have some solid evidence present it.  Historical, in terms of the Gore graph?  Theoretical that lets us set aside the dozens of wildly failed attempts?<p>It&#x27;s your turn now.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21930301",
+      "id": "21934146",
+      "time": "1577959821",
+      "timestamp": "2020-01-02 10:10:21 UTC",
+      "by": "warlog",
+      "text": "This isn&#x27;t an issue of language, it&#x27;s a check on the internal consistency of a number system. No year zero and the decade starts next year are internally consistent. That most people think the decade started doesn&#x27;t make it true, just like most people believing in God(tm) doesn&#x27;t make it true.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934137",
+      "id": "21934145",
+      "time": "1577959807",
+      "timestamp": "2020-01-02 10:10:07 UTC",
+      "by": "gambiting",
+      "text": "Interesting, because in some places like the UK, road infrastructure is intentionally made &quot;difficult&quot; as it has been proven to make drivers pay more attention and reduce accidents around those places.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933710",
+      "id": "21934144",
+      "time": "1577959756",
+      "timestamp": "2020-01-02 10:09:16 UTC",
+      "by": "vineyardmike",
+      "text": "&gt; new cat and dog stickers that no one asked for<p>These happen to be important tools for a &quot;social&quot; thing like a messenger for helping the average person want to use it. People (generally) like stickers, and adding them makes signal an easier sell to people who might not understand the value of encryption.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933868",
+      "id": "21934143",
+      "time": "1577959751",
+      "timestamp": "2020-01-02 10:09:11 UTC",
+      "by": "pi-rat",
+      "text": "HN 11 months ago: Oslo made its city center basically car-free <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=19000076\" rel=\"nofollow\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=19000076</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933696",
+      "id": "21934142",
+      "time": "1577959746",
+      "timestamp": "2020-01-02 10:09:06 UTC",
+      "by": "pjmlp",
+      "text": "GDB can be used as C language REPL since at least late 90&#x27;s, and lldb as well.<p>And if their pseudo-REPL features aren&#x27;t enough, there are a couple of C interpreters to choose from.<p><a href=\"http:&#x2F;&#x2F;www.softintegration.com&#x2F;\" rel=\"nofollow\">http:&#x2F;&#x2F;www.softintegration.com&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;gitlab.com&#x2F;zsaleeba&#x2F;picoc\" rel=\"nofollow\">https:&#x2F;&#x2F;gitlab.com&#x2F;zsaleeba&#x2F;picoc</a><p><a href=\"https:&#x2F;&#x2F;root.cern.ch&#x2F;cling\" rel=\"nofollow\">https:&#x2F;&#x2F;root.cern.ch&#x2F;cling</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933170",
+      "id": "21934141",
+      "time": "1577959745",
+      "timestamp": "2020-01-02 10:09:05 UTC",
+      "by": "fanf2",
+      "text": "Cancellation and backpressure are different things. Backpressure is about not accepting work when there is not capacity to handle it. It is incorrect to accept too much work, hit overload, and respond to the emergency by throwing away partially completed work. That makes the overload worse by wasting effort.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933868",
+      "id": "21934140",
+      "time": "1577959699",
+      "timestamp": "2020-01-02 10:08:19 UTC",
+      "by": "elfexec",
+      "text": "That&#x27;s impressive. Even more impressive is that the yearly death toll has been 10 or below since around 2005. Is it because people&#x2F;teens are now staying indoors more due to the internet or is it due to a policy change or is it technological improvements in cars? I don&#x27;t speak norwegian so I can&#x27;t read the linked article.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21929709",
+      "id": "21934139",
+      "time": "1577959590",
+      "timestamp": "2020-01-02 10:06:30 UTC",
+      "by": "29athrowaway",
+      "text": "In the past, there were elixirs that claimed to cure baldness, impotence, cancer, etc. Marketing based on unproven claims was legal, and everyone was doing it.<p>Software today is in the snake oil era. &quot;Secure&quot;, &quot;privacy-friendly&quot;, &quot;robust&quot;...<p>We need the government to create the FDA of software, to protect the consumers against potentially harmful software, marketed using false advertisement.<p>We also need job applicants to be protected against predatory companies that hire people that want to do right by the customer, but are forced to produce rushed, poor quality stuff.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934011",
+      "id": "21934137",
+      "time": "1577959541",
+      "timestamp": "2020-01-02 10:05:41 UTC",
+      "by": "AdamHede",
+      "text": "They also look at road section with abnormally high levels of accidents and are actually willing to chance road layout to more intuitive.<p>It is a legitimate reason to change the curvature or build a bridge or additional exit in Norway &quot;because it&#x27;s difficult to drive in&quot;.<p>It&#x27;s really quite incredible, and combine that with safer cars, and you can really start to eat into traffic fatalities.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21928103",
+      "id": "21934136",
+      "time": "1577959519",
+      "timestamp": "2020-01-02 10:05:19 UTC",
+      "by": "ncmncm",
+      "text": "Thank you for this enlightening explanation. I should have guessed that it, like most things, is not as easy as it looks.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933947",
+      "id": "21934135",
+      "time": "1577959507",
+      "timestamp": "2020-01-02 10:05:07 UTC",
+      "by": "shimms",
+      "text": "The town of Mallacoota is essentially surrounded by a moat of fire at the moment. The residents are trapped inside this ring, one part of which is the ocean. The Navy, as well as supplying, are evacuating people off the beach as there is no other safe way out of that part of the country at the moment.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934085",
+      "id": "21934134",
+      "time": "1577959499",
+      "timestamp": "2020-01-02 10:04:59 UTC",
+      "by": "starefossen",
+      "text": "To some extent. They have dedicated bus lanes with less traffic than the rest of the road and they have started restricting parts of the city center for cars.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934049",
+      "id": "21934133",
+      "time": "1577959492",
+      "timestamp": "2020-01-02 10:04:52 UTC",
+      "by": "Tehdasi",
+      "text": "Not quite, there will be less fuel, but not less trees. The bushland of Australia has had regular fires baked into it&#x27;s ecosystem, so the plant species all have coping mechanisms to deal with fire. A good example is are the Banksia varieties that rely on a bushfire to germinate.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932004",
+      "id": "21934132",
+      "time": "1577959450",
+      "timestamp": "2020-01-02 10:04:10 UTC",
+      "by": "netcan",
+      "text": "Fragmentation is relative, and &quot;weoponization&quot; in the sense described in the article is global.<p>That doesn&#x27;t mean we&#x27;re equally affected and government type doesn&#x27;t matter. If a scary dictatorship gets access to journalist communications, for example, a scary dictatorship will more aggressively action that.<p>That said, almost any of these &quot;weaponization&quot; trends happen everywhere and affect everyone. Strong democracies have certain defenses, but that doesn&#x27;t make them immune.<p>Spying, censorship, propoganda, media manipulation, disruption of  activist or political groups... These uses are growing. Democratic norms and institutions are not absolute, or necessarily even even effective at preventing abuses of a totally new communication ecosystem.<p>It&#x27;s not as if our high courts, parliaments or whatnot have been breaking new ground recently. The ground however, keeps moving regardless.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21931323",
+      "id": "21934131",
+      "time": "1577959428",
+      "timestamp": "2020-01-02 10:03:48 UTC",
+      "by": "_tkzm",
+      "text": "99,99% new people that come to event sourcing and 9&#x2F;10 of those who have been in the event sorucing already, make the huge mystake of taking event store concepts from other people that took it from other people and in the end that is where everyone fails. even big names like greg and his praised &quot;eventstore&quot; project. if you are new to ES, great, you have no baggage. do not read any technicalities about the event store or try to use any existing library for it(the underlying storage engine does not matter, mysql, postgres, rocks...). come up with your own solution and you will have zero ES problems. why? well, the entire concept of event store that is being flown out there is completely flawed and if you implement it, it will cost you a lot of money and time to unfuck yourself later on.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21932093",
+      "id": "21934130",
+      "time": "1577959401",
+      "timestamp": "2020-01-02 10:03:21 UTC",
+      "by": "z3t4",
+      "text": "Just load all images. No JavaScript! Let the browser handle it. I hate when web sites only display 1-3 pages worth of content and unload&#x2F;load more when  I scroll. The JS code for that uses more resources then pulling everything would. It&#x27;s a user nightmare, where I cannot use &quot;find&quot; and I can&#x27;t zoom out, or scroll fast. The  browser can easily handle 10,000 DOM elements. There is already optimizations in place in browsers which solve render issues. Beating the browser at it&#x27;s own job will require a tremendously amount of work. These problem was already solved when computers only had 256MB of memory. And your web site would be blazingly fast today if you did not complicate things.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21934100",
+      "id": "21934129",
+      "time": "1577959400",
+      "timestamp": "2020-01-02 10:03:20 UTC",
+      "by": "ailideex",
+      "text": "Parents, family, friends, community - many places - being dictated morality in school from a government seems rather perverse though.<p>I&#x27;m sure it sounds great if you also think that nobody with morals that is not yours should ever have political power - but that is not an option and even if it was I don&#x27;t think that is a reasonable expectation or desire.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933881",
+      "id": "21934128",
+      "time": "1577959397",
+      "timestamp": "2020-01-02 10:03:17 UTC",
+      "by": "lorenzhs",
+      "text": "No bad intentions, just some confusion: <a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;moxie&#x2F;status&#x2F;1211427007596154881\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;moxie&#x2F;status&#x2F;1211427007596154881</a>",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933928",
+      "id": "21934127",
+      "time": "1577959386",
+      "timestamp": "2020-01-02 10:03:06 UTC",
+      "by": "phs318u",
+      "text": "Please support your claim with some evidence. I worked in the contestable electricity distribution business for 8 years from 2001 to 2009 and I can assure that your claim is complete bollocks.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933710",
+      "id": "21934126",
+      "time": "1577959360",
+      "timestamp": "2020-01-02 10:02:40 UTC",
+      "by": "narnianal",
+      "text": "All nice and true (thus upvoted), but it&#x27;s not really the point he&#x27;s making. The point he&#x27;s making is that most modern applications require more than 1-3 developers, and therefore you need to consider the development cost and infrastructure as part of the whole consideration. So he advocates to work on decreasing these costs instead of finding another high-level distributed architecture that is running on centralized infrastructure (the internet) and that is either forgotten in a few months or built by a centralized development organization.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21933858",
+      "id": "21934125",
+      "time": "1577959341",
+      "timestamp": "2020-01-02 10:02:21 UTC",
+      "by": "TeMPOraL",
+      "text": "Haven&#x27;t used it yet, but skimming the documentation, it does seem to look like half of the picture. The other half would be a way to get a critical path analysis out of it, and somehow visualize everything together in a way that makes it easy to notice where you have slack or underutilization.",
+      "score": null,
+      "type": "comment"
+    },
+    {
+      "parent": "21929911",
+      "id": "21934124",
+      "time": "1577959328",
+      "timestamp": "2020-01-02 10:02:08 UTC",
+      "by": "Pulletwee12549",
+      "text": "If I understand correctly, the paper asks us to imagine Alice&#x27;s friend making a &#x27;classical&#x27; coin flip, and Alice modeling and measuring her friend&#x27;s lab as if the coin flip were a quantum superposition of coin heads&#x2F;coin tails.<p>But this is simply wrong. The error creeps in in the second assumption:<p>&gt; An agent can analyze another system, even a complex one including other agents, using quantum mechanics<p>This is likely a good assumption, but quantum physics would tell Alice that the coin&#x27;s atoms are all firmly in a state corresponding to either &#x27;heads&#x27; or &#x27;tails&#x27;. The author is actually making the following assumption:<p>&gt; What we classically think of as chance is completely interchangeable with the unpredictability of quantum superpositions.<p>This notion has already been proven wrong many times over.",
+      "score": null,
+      "type": "comment"
+    }
+  ]
